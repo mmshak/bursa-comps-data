@@ -1,0 +1,41 @@
+name: Scrape Bursa Comps Data
+
+on:
+  schedule:
+    # 06:00 UTC every Monday - 1hr ahead of the Claude Routine's 07:00 UTC fire
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        id: scrape
+        continue-on-error: true
+        run: python scrape.py
+
+      - name: Commit and push data
+        if: always()
+        run: |
+          git config user.name "bursa-comps-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update scraped data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Fail job if scrape failed
+        if: steps.scrape.outcome == 'failure'
+        run: exit 1
