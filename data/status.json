@@ -1,5 +1,17 @@
 {
-  "generated_at": "2026-08-23T16:01:28.861675+00:00",
-  "ok": true,
-  "errors": []
+  "generated_at": "2026-08-23T16:07:35.775493+00:00",
+  "ok": false,
+  "errors": [
+    "Table 2 rows exist but every field is null - the per-stock page parser matched nothing. See data/debug_stock_page.html for a raw sample to recalibrate against."
+  ],
+  "table1_counts": {
+    "AI/Technology": 55,
+    "Financial Services": 33,
+    "Healthcare": 20
+  },
+  "table2_counts": {
+    "AI/Technology": 8,
+    "Financial Services": 10,
+    "Healthcare": 8
+  }
 }
