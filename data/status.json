@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:07:35.775493+00:00",
+  "generated_at": "2026-08-23T16:12:13.850140+00:00",
   "ok": false,
   "errors": [
     "Table 2 rows exist but every field is null - the per-stock page parser matched nothing. See data/debug_stock_page.html for a raw sample to recalibrate against."
