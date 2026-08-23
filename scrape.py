@@ -265,11 +265,18 @@ def main():
             errors.append(f"Table 1 / {sector}: {e}")
             table1[sector] = []
 
+    debug_dumped = False
     for sector, stocks in STOCK_CODES.items():
         rows = []
         for code, name in stocks:
             try:
                 html = fetch(STOCK_URL_TMPL.format(code=code))
+                if not debug_dumped:
+                    # Save one raw sample page for calibrating the parser -
+                    # this sandbox has no other way to see the real markup.
+                    with open("data/debug_stock_page.html", "w") as f:
+                        f.write(html)
+                    debug_dumped = True
                 rows.append(parse_stock_page(html, code, name))
             except Exception as e:
                 errors.append(f"Table 2 / {sector} / {code} {name}: {e}")
@@ -281,8 +288,15 @@ def main():
     # the sector genuinely has under 5 constituents.
     table1_ok = all(len(table1.get(s, [])) >= 5 for s in SECTOR_URLS)
     table2_ok = all(len(table2.get(s, [])) >= 1 for s in STOCK_CODES)
+    # A row with a code/name but no price/pe means the per-stock parser
+    # matched nothing on that page - don't call that a success even though
+    # a "row" technically exists (caught a real bug on the first live run).
+    table2_fields_ok = all(
+        r.get("price") is not None or r.get("pe") is not None
+        for rows in table2.values() for r in rows
+    ) if table2_ok else False
 
-    if table1_ok and table2_ok and not errors:
+    if table1_ok and table2_ok and table2_fields_ok and not errors:
         with open(OUT_LATEST, "w") as f:
             json.dump({
                 "generated_at": generated_at,
@@ -293,6 +307,12 @@ def main():
             json.dump({"generated_at": generated_at, "ok": True, "errors": []}, f, indent=2)
         print(f"OK - wrote {OUT_LATEST}")
     else:
+        if table2_ok and not table2_fields_ok:
+            errors.append(
+                "Table 2 rows exist but every field is null - the per-stock "
+                "page parser matched nothing. See data/debug_stock_page.html "
+                "for a raw sample to recalibrate against."
+            )
         with open(OUT_STATUS, "w") as f:
             json.dump({
                 "generated_at": generated_at,
