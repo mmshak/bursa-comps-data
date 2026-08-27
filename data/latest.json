@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T22:38:29.529347+00:00",
+  "generated_at": "2026-08-27T23:18:06.852600+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -10,8 +10,8 @@
         "pe": 82.9,
         "div_yield": 0.19,
         "market_cap": 18000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 9.65,
+        "week52_low": 3.56
       },
       {
         "code": "5005",
@@ -21,8 +21,8 @@
         "pe": 113.61,
         "div_yield": 1.55,
         "market_cap": 7700000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 5.38,
+        "week52_low": 2.53
       },
       {
         "code": "5286",
@@ -32,8 +32,8 @@
         "pe": 39.78,
         "div_yield": 0.46,
         "market_cap": 5800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 6.55,
+        "week52_low": 2.25
       },
       {
         "code": "5292",
@@ -43,8 +43,8 @@
         "pe": 102.18,
         "div_yield": null,
         "market_cap": 7400000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 6.96,
+        "week52_low": 2.77
       },
       {
         "code": "3867",
@@ -54,8 +54,8 @@
         "pe": 47.79,
         "div_yield": 0.93,
         "market_cap": 8900000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 50.8,
+        "week52_low": 26.1
       },
       {
         "code": "0166",
@@ -65,8 +65,8 @@
         "pe": 75.44,
         "div_yield": 1.88,
         "market_cap": 9600000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.67,
+        "week52_low": 1.21
       },
       {
         "code": "5357",
@@ -76,8 +76,8 @@
         "pe": 62.72,
         "div_yield": null,
         "market_cap": 5600000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 3.8,
+        "week52_low": 2.01
       },
       {
         "code": "7160",
@@ -87,8 +87,8 @@
         "pe": 51.9,
         "div_yield": null,
         "market_cap": 3800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 5.84,
+        "week52_low": 2.8
       },
       {
         "code": "4456",
@@ -98,8 +98,8 @@
         "pe": -7.98,
         "div_yield": null,
         "market_cap": 1700000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.545,
+        "week52_low": 0.23
       },
       {
         "code": "5309",
@@ -109,8 +109,8 @@
         "pe": 43.34,
         "div_yield": 0.52,
         "market_cap": 4500000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.0,
+        "week52_low": 0.0
       },
       {
         "code": "5161",
@@ -120,8 +120,8 @@
         "pe": -14.75,
         "div_yield": null,
         "market_cap": 1100000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.58,
+        "week52_low": 0.28
       },
       {
         "code": "0083",
@@ -131,8 +131,8 @@
         "pe": -26.65,
         "div_yield": null,
         "market_cap": 294500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.78,
+        "week52_low": 0.35
       },
       {
         "code": "0065",
@@ -142,8 +142,8 @@
         "pe": 30.4,
         "div_yield": 3.03,
         "market_cap": 100600000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.25,
+        "week52_low": 0.15
       },
       {
         "code": "0128",
@@ -153,8 +153,8 @@
         "pe": 51.7,
         "div_yield": 0.39,
         "market_cap": 9200000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 5.4,
+        "week52_low": 3.61
       },
       {
         "code": "5036",
@@ -164,8 +164,8 @@
         "pe": 16.97,
         "div_yield": 4.03,
         "market_cap": 70800000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.42,
+        "week52_low": 1.03
       },
       {
         "code": "0008",
@@ -175,8 +175,8 @@
         "pe": 19.04,
         "div_yield": 5.17,
         "market_cap": 143800000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.315,
+        "week52_low": 0.25
       },
       {
         "code": "9377",
@@ -186,8 +186,8 @@
         "pe": -10.98,
         "div_yield": null,
         "market_cap": 101000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.255,
+        "week52_low": 0.14
       },
       {
         "code": "0143",
@@ -197,8 +197,8 @@
         "pe": -19.08,
         "div_yield": null,
         "market_cap": 91800000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.095,
+        "week52_low": 0.02
       },
       {
         "code": "4359",
@@ -208,8 +208,8 @@
         "pe": -1.47,
         "div_yield": null,
         "market_cap": 50300000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.3,
+        "week52_low": 0.17
       },
       {
         "code": "0029",
@@ -219,8 +219,8 @@
         "pe": -12.8,
         "div_yield": null,
         "market_cap": 27900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.065,
+        "week52_low": 0.03
       },
       {
         "code": "0041",
@@ -230,8 +230,8 @@
         "pe": -1.12,
         "div_yield": null,
         "market_cap": 56200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.02,
+        "week52_low": 0.005
       },
       {
         "code": "9393",
@@ -241,8 +241,8 @@
         "pe": -3.24,
         "div_yield": null,
         "market_cap": 24700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.045,
+        "week52_low": 0.01
       },
       {
         "code": "0126",
@@ -252,8 +252,8 @@
         "pe": -17.42,
         "div_yield": null,
         "market_cap": 80400000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.12,
+        "week52_low": 0.04
       },
       {
         "code": "9008",
@@ -263,8 +263,8 @@
         "pe": -2.51,
         "div_yield": null,
         "market_cap": 197400000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.117,
+        "week52_low": 0.055
       },
       {
         "code": "0090",
@@ -274,8 +274,8 @@
         "pe": 43.52,
         "div_yield": 1.79,
         "market_cap": 194300000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.39,
+        "week52_low": 0.17
       },
       {
         "code": "0276",
@@ -285,8 +285,8 @@
         "pe": 18.53,
         "div_yield": 8.93,
         "market_cap": 308200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.12,
+        "week52_low": 0.55
       },
       {
         "code": "0200",
@@ -296,8 +296,8 @@
         "pe": -2.23,
         "div_yield": null,
         "market_cap": 45300000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.085,
+        "week52_low": 0.045
       },
       {
         "code": "0051",
@@ -307,8 +307,8 @@
         "pe": 20.91,
         "div_yield": null,
         "market_cap": 85000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.16,
+        "week52_low": 0.065
       },
       {
         "code": "0277",
@@ -318,8 +318,8 @@
         "pe": 14.93,
         "div_yield": 4.04,
         "market_cap": 263100000.00000003,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.91,
+        "week52_low": 0.415
       },
       {
         "code": "5216",
@@ -329,8 +329,8 @@
         "pe": -6.6,
         "div_yield": 0.04,
         "market_cap": 1000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.53,
+        "week52_low": 0.215
       },
       {
         "code": "7204",
@@ -340,8 +340,8 @@
         "pe": -1.68,
         "div_yield": null,
         "market_cap": 526700000.00000006,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.6,
+        "week52_low": 0.31
       },
       {
         "code": "0104",
@@ -351,8 +351,8 @@
         "pe": -1.63,
         "div_yield": null,
         "market_cap": 284800000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.635,
+        "week52_low": 0.145
       },
       {
         "code": "0249",
@@ -362,8 +362,8 @@
         "pe": 21.24,
         "div_yield": 1.05,
         "market_cap": 216600000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.95,
+        "week52_low": 0.42
       },
       {
         "code": "7181",
@@ -373,8 +373,8 @@
         "pe": -2.82,
         "div_yield": null,
         "market_cap": 31200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.04,
+        "week52_low": 0.02
       },
       {
         "code": "8338",
@@ -384,8 +384,8 @@
         "pe": -2.19,
         "div_yield": null,
         "market_cap": 60100000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.12,
+        "week52_low": 0.05
       },
       {
         "code": "0113",
@@ -395,8 +395,8 @@
         "pe": -16.64,
         "div_yield": 3.33,
         "market_cap": 62200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.665,
+        "week52_low": 0.255
       },
       {
         "code": "0259",
@@ -406,8 +406,8 @@
         "pe": 24.17,
         "div_yield": 1.83,
         "market_cap": 928700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.775,
+        "week52_low": 0.385
       },
       {
         "code": "5301",
@@ -417,8 +417,8 @@
         "pe": 13.54,
         "div_yield": 4.03,
         "market_cap": 1400000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.02,
+        "week52_low": 0.57
       },
       {
         "code": "0146",
@@ -428,8 +428,8 @@
         "pe": 58.46,
         "div_yield": 0.69,
         "market_cap": 703200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.76,
+        "week52_low": 0.385
       },
       {
         "code": "5162",
@@ -439,8 +439,8 @@
         "pe": 16.66,
         "div_yield": 6.17,
         "market_cap": 1800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.183,
+        "week52_low": 1.2
       },
       {
         "code": "5195",
@@ -450,8 +450,8 @@
         "pe": 13.7,
         "div_yield": null,
         "market_cap": 115900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.255,
+        "week52_low": 0.16
       },
       {
         "code": "7022",
@@ -461,8 +461,8 @@
         "pe": -6.86,
         "div_yield": null,
         "market_cap": 203200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.375,
+        "week52_low": 0.15
       },
       {
         "code": "5011",
@@ -472,8 +472,8 @@
         "pe": 5.52,
         "div_yield": 4.2,
         "market_cap": 71800000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.39,
+        "week52_low": 1.05
       },
       {
         "code": "0040",
@@ -483,8 +483,8 @@
         "pe": 9.32,
         "div_yield": 5.81,
         "market_cap": 138500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.335,
+        "week52_low": 0.295
       },
       {
         "code": "5204",
@@ -494,8 +494,8 @@
         "pe": 9.21,
         "div_yield": null,
         "market_cap": 217200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.375,
+        "week52_low": 0.225
       },
       {
         "code": "0258",
@@ -505,8 +505,8 @@
         "pe": 17.26,
         "div_yield": null,
         "market_cap": 112100000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.46,
+        "week52_low": 0.29
       },
       {
         "code": "9334",
@@ -516,8 +516,8 @@
         "pe": 26.44,
         "div_yield": 1.42,
         "market_cap": 181500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 5.05,
+        "week52_low": 2.5
       },
       {
         "code": "0246",
@@ -527,8 +527,8 @@
         "pe": 45.37,
         "div_yield": null,
         "market_cap": 436000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.94,
+        "week52_low": 0.3
       },
       {
         "code": "5028",
@@ -538,8 +538,8 @@
         "pe": 28.25,
         "div_yield": null,
         "market_cap": 203700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.4,
+        "week52_low": 1.21
       },
       {
         "code": "0127",
@@ -549,8 +549,8 @@
         "pe": 20.67,
         "div_yield": null,
         "market_cap": 296900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.525,
+        "week52_low": 0.275
       },
       {
         "code": "5356",
@@ -560,8 +560,8 @@
         "pe": 97.21,
         "div_yield": null,
         "market_cap": 3700000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 3.09,
+        "week52_low": 1.9
       },
       {
         "code": "9075",
@@ -571,8 +571,8 @@
         "pe": -7.33,
         "div_yield": null,
         "market_cap": 83700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.87,
+        "week52_low": 0.5
       },
       {
         "code": "0253",
@@ -582,8 +582,8 @@
         "pe": 82.69,
         "div_yield": null,
         "market_cap": 98000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.515,
+        "week52_low": 0.27
       },
       {
         "code": "0138",
@@ -593,8 +593,8 @@
         "pe": 4.59,
         "div_yield": 5.28,
         "market_cap": 4700000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.91,
+        "week52_low": 0.59
       },
       {
         "code": "0208",
@@ -604,8 +604,8 @@
         "pe": 75.87,
         "div_yield": null,
         "market_cap": 6400000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.93,
+        "week52_low": 1.45
       }
     ],
     "Financial Services": [
@@ -617,8 +617,8 @@
         "pe": 11.42,
         "div_yield": 4.02,
         "market_cap": 51700000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 25.8,
+        "week52_low": 19.88
       },
       {
         "code": "1082",
@@ -628,8 +628,8 @@
         "pe": 6.39,
         "div_yield": 3.76,
         "market_cap": 21900000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 23.1,
+        "week52_low": 16.78
       },
       {
         "code": "1163",
@@ -639,8 +639,8 @@
         "pe": 4.16,
         "div_yield": 1.61,
         "market_cap": 4000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 23.3,
+        "week52_low": 17.8
       },
       {
         "code": "1818",
@@ -650,8 +650,8 @@
         "pe": 26.06,
         "div_yield": 3.23,
         "market_cap": 7000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 9.18,
+        "week52_low": 7.78
       },
       {
         "code": "5274",
@@ -661,8 +661,8 @@
         "pe": 12.16,
         "div_yield": 5.88,
         "market_cap": 797400000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 4.0,
+        "week52_low": 3.07
       },
       {
         "code": "2488",
@@ -672,8 +672,8 @@
         "pe": 9.78,
         "div_yield": 3.86,
         "market_cap": 8500000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 5.59,
+        "week52_low": 4.27
       },
       {
         "code": "5185",
@@ -683,8 +683,8 @@
         "pe": 10.17,
         "div_yield": 4.12,
         "market_cap": 5400000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.82,
+        "week52_low": 2.04
       },
       {
         "code": "5325",
@@ -694,8 +694,8 @@
         "pe": 7.1,
         "div_yield": 4.32,
         "market_cap": 708000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.78,
+        "week52_low": 1.01
       },
       {
         "code": "6139",
@@ -705,8 +705,8 @@
         "pe": 7.04,
         "div_yield": 5.78,
         "market_cap": 2700000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 3.58,
+        "week52_low": 3.01
       },
       {
         "code": "1163",
@@ -716,8 +716,8 @@
         "pe": null,
         "div_yield": null,
         "market_cap": 3500000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 23.3,
+        "week52_low": 17.8
       },
       {
         "code": "5139",
@@ -727,8 +727,8 @@
         "pe": 7.18,
         "div_yield": 5.42,
         "market_cap": 2800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 6.13,
+        "week52_low": 4.85
       },
       {
         "code": "3379",
@@ -738,8 +738,8 @@
         "pe": 3.56,
         "div_yield": 3.28,
         "market_cap": 662200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.97,
+        "week52_low": 0.82
       },
       {
         "code": "0242",
@@ -749,8 +749,8 @@
         "pe": 21.13,
         "div_yield": 1.97,
         "market_cap": 683600000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.98,
+        "week52_low": 0.885
       },
       {
         "code": "5228",
@@ -760,8 +760,8 @@
         "pe": 15.73,
         "div_yield": 4.46,
         "market_cap": 459300000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.13,
+        "week52_low": 1.0
       },
       {
         "code": "3441",
@@ -771,8 +771,8 @@
         "pe": -1.46,
         "div_yield": null,
         "market_cap": 29200000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.04,
+        "week52_low": 0.02
       },
       {
         "code": "5088",
@@ -782,8 +782,8 @@
         "pe": 14.04,
         "div_yield": null,
         "market_cap": 136700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.915,
+        "week52_low": 0.605
       },
       {
         "code": "6483",
@@ -793,8 +793,8 @@
         "pe": 11.11,
         "div_yield": 7.46,
         "market_cap": 492900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.895,
+        "week52_low": 0.665
       },
       {
         "code": "6009",
@@ -804,8 +804,8 @@
         "pe": -5.71,
         "div_yield": null,
         "market_cap": 158500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.61,
+        "week52_low": 0.515
       },
       {
         "code": "5258",
@@ -815,8 +815,8 @@
         "pe": 8.64,
         "div_yield": 6.78,
         "market_cap": 4800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.55,
+        "week52_low": 2.07
       },
       {
         "code": "8621",
@@ -826,8 +826,8 @@
         "pe": 15.69,
         "div_yield": 6.47,
         "market_cap": 5800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 15.78,
+        "week52_low": 14.1
       },
       {
         "code": "1066",
@@ -837,8 +837,8 @@
         "pe": 10.82,
         "div_yield": 5.81,
         "market_cap": 37500000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 8.94,
+        "week52_low": 6.43
       },
       {
         "code": "2143",
@@ -848,8 +848,8 @@
         "pe": 3.93,
         "div_yield": null,
         "market_cap": 111400000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.23,
+        "week52_low": 0.18
       },
       {
         "code": "5230",
@@ -859,8 +859,8 @@
         "pe": 9.58,
         "div_yield": 4.91,
         "market_cap": 199700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.36,
+        "week52_low": 0.26
       },
       {
         "code": "1058",
@@ -870,8 +870,8 @@
         "pe": 4.91,
         "div_yield": 3.83,
         "market_cap": 562400000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.4,
+        "week52_low": 2.06
       },
       {
         "code": "1023",
@@ -881,8 +881,8 @@
         "pe": 11.18,
         "div_yield": 5.84,
         "market_cap": 87200000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 8.95,
+        "week52_low": 7.07
       },
       {
         "code": "9296",
@@ -892,8 +892,8 @@
         "pe": 11.78,
         "div_yield": 6.25,
         "market_cap": 1500000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.25,
+        "week52_low": 1.03
       },
       {
         "code": "7082",
@@ -903,8 +903,8 @@
         "pe": 17.67,
         "div_yield": null,
         "market_cap": 360900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.305,
+        "week52_low": 0.16
       },
       {
         "code": "1171",
@@ -914,8 +914,8 @@
         "pe": 28.89,
         "div_yield": 5.28,
         "market_cap": 5000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.785,
+        "week52_low": 0.61
       },
       {
         "code": "1198",
@@ -925,8 +925,8 @@
         "pe": -0.63,
         "div_yield": null,
         "market_cap": 35600000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.21,
+        "week52_low": 0.125
       },
       {
         "code": "6459",
@@ -936,8 +936,8 @@
         "pe": 4.22,
         "div_yield": 1.66,
         "market_cap": 2300000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 3.1,
+        "week52_low": 1.85
       },
       {
         "code": "1015",
@@ -947,8 +947,8 @@
         "pe": 10.99,
         "div_yield": 5.01,
         "market_cap": 23100000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 7.37,
+        "week52_low": 5.39
       },
       {
         "code": "1155",
@@ -958,8 +958,8 @@
         "pe": 12.27,
         "div_yield": 5.93,
         "market_cap": 128400000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 12.42,
+        "week52_low": 9.68
       },
       {
         "code": "1295",
@@ -969,8 +969,8 @@
         "pe": 13.3,
         "div_yield": 4.5,
         "market_cap": 97000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 5.29,
+        "week52_low": 4.18
       }
     ],
     "Healthcare": [
@@ -982,8 +982,8 @@
         "pe": -7.43,
         "div_yield": null,
         "market_cap": 1100000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.53,
+        "week52_low": 0.25
       },
       {
         "code": "5555",
@@ -993,8 +993,8 @@
         "pe": 83.63,
         "div_yield": null,
         "market_cap": 24900000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.46,
+        "week52_low": 1.69
       },
       {
         "code": "5168",
@@ -1004,8 +1004,8 @@
         "pe": 21.58,
         "div_yield": 1.78,
         "market_cap": 3400000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.38,
+        "week52_low": 0.8
       },
       {
         "code": "7113",
@@ -1015,8 +1015,8 @@
         "pe": 29.8,
         "div_yield": 0.7,
         "market_cap": 5600000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.88,
+        "week52_low": 0.53
       },
       {
         "code": "7191",
@@ -1026,8 +1026,8 @@
         "pe": -5.52,
         "div_yield": null,
         "market_cap": 42700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.235,
+        "week52_low": 0.115
       },
       {
         "code": "7148",
@@ -1037,8 +1037,8 @@
         "pe": 12.24,
         "div_yield": 3.5,
         "market_cap": 1200000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.57,
+        "week52_low": 1.18
       },
       {
         "code": "7178",
@@ -1048,8 +1048,8 @@
         "pe": 10.61,
         "div_yield": 5.45,
         "market_cap": 286500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 2.2,
+        "week52_low": 2.01
       },
       {
         "code": "0163",
@@ -1059,8 +1059,8 @@
         "pe": -0.99,
         "div_yield": null,
         "market_cap": 63700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.105,
+        "week52_low": 0.06
       },
       {
         "code": "0201",
@@ -1070,8 +1070,8 @@
         "pe": 11.86,
         "div_yield": 8.65,
         "market_cap": 117900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.445,
+        "week52_low": 0.32
       },
       {
         "code": "5878",
@@ -1081,8 +1081,8 @@
         "pe": 30.53,
         "div_yield": 1.57,
         "market_cap": 12200000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 3.53,
+        "week52_low": 2.34
       },
       {
         "code": "0222",
@@ -1092,8 +1092,8 @@
         "pe": 21.87,
         "div_yield": 2.72,
         "market_cap": 279800000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.715,
+        "week52_low": 0.505
       },
       {
         "code": "0256",
@@ -1103,8 +1103,8 @@
         "pe": 14.18,
         "div_yield": 0.97,
         "market_cap": 115900000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.475,
+        "week52_low": 0.28
       },
       {
         "code": "7803",
@@ -1114,8 +1114,8 @@
         "pe": -1.56,
         "div_yield": null,
         "market_cap": 77500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.12,
+        "week52_low": 0.05
       },
       {
         "code": "7081",
@@ -1125,8 +1125,8 @@
         "pe": 26.03,
         "div_yield": 0.62,
         "market_cap": 1500000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.7,
+        "week52_low": 0.825
       },
       {
         "code": "0001",
@@ -1136,8 +1136,8 @@
         "pe": 17.73,
         "div_yield": 4.04,
         "market_cap": 447500000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.87,
+        "week52_low": 0.395
       },
       {
         "code": "0101",
@@ -1147,8 +1147,8 @@
         "pe": 44.1,
         "div_yield": 1.3,
         "market_cap": 766400000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 0.575,
+        "week52_low": 0.41
       },
       {
         "code": "7153",
@@ -1158,8 +1158,8 @@
         "pe": 14.93,
         "div_yield": 3.64,
         "market_cap": 2800000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.35,
+        "week52_low": 0.935
       },
       {
         "code": "0002",
@@ -1169,8 +1169,8 @@
         "pe": 13.59,
         "div_yield": 6.85,
         "market_cap": 551700000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 4.49,
+        "week52_low": 3.58
       },
       {
         "code": "5341",
@@ -1180,8 +1180,8 @@
         "pe": 16.19,
         "div_yield": 0.88,
         "market_cap": 294000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 1.34,
+        "week52_low": 0.65
       },
       {
         "code": "5225",
@@ -1191,8 +1191,8 @@
         "pe": 32.08,
         "div_yield": 1.29,
         "market_cap": 72000000000.0,
-        "week52_high": null,
-        "week52_low": null
+        "week52_high": 10.48,
+        "week52_low": 6.73
       }
     ]
   },
@@ -1200,7 +1200,6 @@
     "AI/Technology": [
       {
         "code": "0097",
-        "name": "ViTrox Corp",
         "price": 9.5,
         "pe": 82.9,
         "pb": 14.41,
@@ -1213,11 +1212,11 @@
         "target_price": null,
         "week52_high": 9.65,
         "week52_low": 3.56,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "ViTrox Corp"
       },
       {
         "code": "3867",
-        "name": "Malaysian Pacific Industries",
         "price": 42.82,
         "pe": 47.79,
         "pb": 3.86,
@@ -1230,11 +1229,11 @@
         "target_price": null,
         "week52_high": 50.8,
         "week52_low": 26.1,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Malaysian Pacific Industries"
       },
       {
         "code": "0128",
-        "name": "Frontken Corp",
         "price": 5.1,
         "pe": 51.7,
         "pb": 4.95,
@@ -1247,11 +1246,11 @@
         "target_price": null,
         "week52_high": 5.4,
         "week52_low": 3.61,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Frontken Corp"
       },
       {
         "code": "0166",
-        "name": "Inari Amertron",
         "price": 2.5,
         "pe": 75.44,
         "pb": 3.44,
@@ -1264,11 +1263,11 @@
         "target_price": null,
         "week52_high": 2.67,
         "week52_low": 1.21,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Inari Amertron"
       },
       {
         "code": "5005",
-        "name": "Unisem Malaysia",
         "price": 4.51,
         "pe": 113.61,
         "pb": 3.41,
@@ -1281,11 +1280,11 @@
         "target_price": null,
         "week52_high": 5.38,
         "week52_low": 2.53,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Unisem Malaysia"
       },
       {
         "code": "5292",
-        "name": "UWC Bhd",
         "price": 6.73,
         "pe": 102.18,
         "pb": 14.02,
@@ -1298,11 +1297,11 @@
         "target_price": null,
         "week52_high": 6.96,
         "week52_low": 2.77,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "UWC Bhd"
       },
       {
         "code": "0208",
-        "name": "Greatech Technology",
         "price": 2.55,
         "pe": 75.87,
         "pb": 6.04,
@@ -1315,11 +1314,11 @@
         "target_price": null,
         "week52_high": 2.93,
         "week52_low": 1.45,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Greatech Technology"
       },
       {
         "code": "5357",
-        "name": "SkyeChip Bhd",
         "price": 3.17,
         "pe": 62.73,
         "pb": 10.23,
@@ -1332,13 +1331,13 @@
         "target_price": null,
         "week52_high": 3.8,
         "week52_low": 2.01,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "SkyeChip Bhd"
       }
     ],
     "Financial Services": [
       {
         "code": "5819",
-        "name": "Hong Leong Bank",
         "price": 23.88,
         "pe": 11.42,
         "pb": 1.17,
@@ -1351,11 +1350,11 @@
         "target_price": null,
         "week52_high": 25.8,
         "week52_low": 19.88,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Hong Leong Bank"
       },
       {
         "code": "1295",
-        "name": "Public Bank",
         "price": 5.0,
         "pe": 13.3,
         "pb": 1.58,
@@ -1368,11 +1367,11 @@
         "target_price": null,
         "week52_high": 5.29,
         "week52_low": 4.18,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Public Bank"
       },
       {
         "code": "1155",
-        "name": "Malayan Banking",
         "price": 10.62,
         "pe": 12.27,
         "pb": 1.38,
@@ -1385,11 +1384,11 @@
         "target_price": null,
         "week52_high": 12.42,
         "week52_low": 9.68,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Malayan Banking"
       },
       {
         "code": "5258",
-        "name": "BIMB Holdings",
         "price": 2.13,
         "pe": 8.64,
         "pb": 0.59,
@@ -1402,11 +1401,11 @@
         "target_price": null,
         "week52_high": 2.55,
         "week52_low": 2.07,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "BIMB Holdings"
       },
       {
         "code": "1023",
-        "name": "CIMB Group",
         "price": 8.07,
         "pe": 11.18,
         "pb": 1.27,
@@ -1419,11 +1418,11 @@
         "target_price": null,
         "week52_high": 8.95,
         "week52_low": 7.07,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "CIMB Group"
       },
       {
         "code": "5185",
-        "name": "Affin Bank",
         "price": 2.07,
         "pe": 10.17,
         "pb": 0.42,
@@ -1436,11 +1435,11 @@
         "target_price": null,
         "week52_high": 2.82,
         "week52_low": 2.04,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Affin Bank"
       },
       {
         "code": "1066",
-        "name": "RHB Bank",
         "price": 8.6,
         "pe": 10.82,
         "pb": 1.13,
@@ -1453,11 +1452,11 @@
         "target_price": null,
         "week52_high": 8.94,
         "week52_low": 6.43,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "RHB Bank"
       },
       {
         "code": "1082",
-        "name": "Hong Leong Financial Grp",
         "price": 19.14,
         "pe": 6.39,
         "pb": 0.63,
@@ -1470,11 +1469,11 @@
         "target_price": null,
         "week52_high": 23.1,
         "week52_low": 16.78,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Hong Leong Financial Grp"
       },
       {
         "code": "1015",
-        "name": "AMMB Holdings",
         "price": 6.98,
         "pe": 10.99,
         "pb": 1.08,
@@ -1487,11 +1486,11 @@
         "target_price": null,
         "week52_high": 7.37,
         "week52_low": 5.39,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "AMMB Holdings"
       },
       {
         "code": "2488",
-        "name": "Alliance Bank",
         "price": 4.95,
         "pe": 9.78,
         "pb": 0.96,
@@ -1504,13 +1503,13 @@
         "target_price": null,
         "week52_high": 5.59,
         "week52_low": 4.27,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Alliance Bank"
       }
     ],
     "Healthcare": [
       {
         "code": "5225",
-        "name": "IHH Healthcare",
         "price": 8.15,
         "pe": 32.08,
         "pb": 2.3,
@@ -1523,11 +1522,11 @@
         "target_price": null,
         "week52_high": 10.48,
         "week52_low": 6.73,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "IHH Healthcare"
       },
       {
         "code": "5555",
-        "name": "Sunway Healthcare",
         "price": 2.17,
         "pe": 83.63,
         "pb": 7.48,
@@ -1540,11 +1539,11 @@
         "target_price": null,
         "week52_high": 2.46,
         "week52_low": 1.69,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Sunway Healthcare"
       },
       {
         "code": "5878",
-        "name": "KPJ Healthcare",
         "price": 2.7,
         "pe": 30.53,
         "pb": 4.09,
@@ -1557,11 +1556,11 @@
         "target_price": null,
         "week52_high": 3.53,
         "week52_low": 2.34,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "KPJ Healthcare"
       },
       {
         "code": "7113",
-        "name": "Top Glove Corp",
         "price": 0.685,
         "pe": 29.8,
         "pb": 1.14,
@@ -1574,11 +1573,11 @@
         "target_price": null,
         "week52_high": 0.88,
         "week52_low": 0.53,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Top Glove Corp"
       },
       {
         "code": "5168",
-        "name": "Hartalega Holdings",
         "price": 1.01,
         "pe": 21.58,
         "pb": 0.78,
@@ -1591,11 +1590,11 @@
         "target_price": null,
         "week52_high": 1.38,
         "week52_low": 0.8,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Hartalega Holdings"
       },
       {
         "code": "7153",
-        "name": "Kossan Rubber Industries",
         "price": 1.1,
         "pe": 14.93,
         "pb": 0.73,
@@ -1608,11 +1607,11 @@
         "target_price": null,
         "week52_high": 1.35,
         "week52_low": 0.935,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Kossan Rubber Industries"
       },
       {
         "code": "7081",
-        "name": "Pharmaniaga",
         "price": 1.17,
         "pe": 26.03,
         "pb": 3.35,
@@ -1625,11 +1624,11 @@
         "target_price": null,
         "week52_high": 1.7,
         "week52_low": 0.825,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Pharmaniaga"
       },
       {
         "code": "7148",
-        "name": "Duopharma Biotech",
         "price": 1.3,
         "pe": 12.24,
         "pb": 1.59,
@@ -1642,7 +1641,8 @@
         "target_price": null,
         "week52_high": 1.57,
         "week52_low": 1.18,
-        "target_price_source": null
+        "target_price_source": null,
+        "name": "Duopharma Biotech"
       }
     ]
   }
