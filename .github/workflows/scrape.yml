@@ -2,8 +2,14 @@ name: Scrape Bursa Comps Data
 
 on:
   schedule:
-    # 06:00 UTC every Monday - 1hr ahead of the Claude Routine's 07:00 UTC fire
-    - cron: '0 6 * * 1'
+    # Runs every day at 22:00 UTC (06:00 Malaysia time) - deliberately NOT
+    # tied to the digest Routine's own schedule. This means the digest can
+    # be moved to any day/time (weekly, daily, whatever) without ever
+    # needing a matching change here: fresh data (at most ~24h old, usually
+    # much less since KLSE only moves on trading days) is always waiting.
+    # Changed from a Monday-only, "1hr ahead" schedule on 2026-08-27 so the
+    # two schedules never need to be kept in sync by hand again.
+    - cron: '0 22 * * *'
   workflow_dispatch: {}
 
 permissions:
