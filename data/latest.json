@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T23:18:06.852600+00:00",
+  "generated_at": "2026-08-27T23:38:25.380522+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -109,8 +109,8 @@
         "pe": 43.34,
         "div_yield": 0.52,
         "market_cap": 4500000000.0,
-        "week52_high": 0.0,
-        "week52_low": 0.0
+        "week52_high": 5.22,
+        "week52_low": 4.23
       },
       {
         "code": "5161",
