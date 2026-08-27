@@ -6,13 +6,34 @@ Fetches raw structured data from klsescreener.com (Table 1: full sector
 constituent lists; Table 2: per-stock detail for the largest names per
 sector) and writes it as JSON to data/latest.json for a Claude Routine
 to pick up via a plain HTTPS GET (raw.githubusercontent.com), sidestepping
-Claude's own WebFetch tool, which is blocked in unattended/scheduled
-sessions.
+Claude's own WebFetch tool, which is sometimes blocked in unattended/
+scheduled sessions.
 
 On any failure, writes data/status.json with an error message instead of
 a partial/broken latest.json, so the downstream Routine can detect
 failure and send an honest failure email rather than silently reusing
 old data or sending broken numbers.
+
+2026-08-24 fix: parse_stock_page() was rewritten. The original version
+scanned <tr>/<div>/<li> elements generically for two-child label/value
+pairs, but klsescreener.com stock pages have large wrapper <div>s whose
+flattened text happens to contain "p/e"/"roe" etc as substrings - those
+wrapper "pairs" sorted earlier in document order than the real <tr> rows
+and won permanently under a first-match search, so every field came back
+null (confirmed via data/debug_stock_page.html, a real saved sample page,
+against a local BeautifulSoup run - Table 1 was fine, Table 2 was 0/26
+fields). Fix: only scan literal <tr> elements with exactly two <td>
+children, using the site's real short labels (p/e, p/b, psr, roe, eps,
+dps, dy, 52w) rather than long guessed label text, and pull the current
+price from the dedicated `#price` span (data-value attribute) since it
+isn't part of any label/value table row on this site. Verified against
+the live-saved ViTrox (0097) sample: all 9 fields now extract correctly;
+target_price/bank name are correctly None for this stock, since KLSE
+Screener's own stock pages don't carry analyst target prices at all
+(confirmed separately via direct interactive fetch the same day) - that
+field is expected to be null from this scraper for most/all stocks; the
+Routine's own WebSearch research pass is the only source for that field,
+never this scraper.
 """
 
 import json
@@ -122,10 +143,12 @@ def _header_index(headers, *keywords):
 def parse_sector_table(html, sector_name):
     """Parse the sector-list page into Table 1 rows.
 
-    Strategy: find the <table> with the most rows - that's the constituent
-    list, not a nav/footer table. Column positions are located by header
-    keyword match rather than hardcoded indices, since the exact column
-    order can't be confirmed without live access from this environment.
+    Unchanged 2026-08-24 - this half of the parser was already confirmed
+    working (55/33/20 rows across the three sectors, matching a live
+    interactive fetch done the same day). Strategy: find the <table> with
+    the most rows - that's the constituent list, not a nav/footer table.
+    Column positions are located by header keyword match rather than
+    hardcoded indices.
     """
     soup = BeautifulSoup(html, "html.parser")
     tables = soup.find_all("table")
@@ -192,52 +215,81 @@ def parse_sector_table(html, sector_name):
     return out
 
 
+# Real short labels used by klsescreener.com's per-stock detail table, e.g.
+# <tr><td>P/E</td><td class="number">78.45</td></tr> - confirmed 2026-08-24
+# against a live-saved sample page (see data/debug_stock_page.html). Order
+# matters: more specific keys should not be substrings of unrelated ones.
+_FIELD_KEYS = {
+    "pe": ["p/e"],
+    "pb": ["p/b"],
+    "psr": ["psr"],
+    "roe": ["roe"],
+    "eps": ["eps"],
+    "dps": ["dps"],
+    "dy": ["dy"],
+    "week52": ["52w"],
+    "market_cap": ["market cap"],
+    "target_price": ["target price", "fair value", "consensus target"],
+}
+
+
 def parse_stock_page(html, code, name):
     """Parse a per-stock detail page into Table 2 fields.
 
-    klsescreener's stock pages are typically label/value pairs rather than
-    one big table, so this scans cell pairs for a label match and takes
-    the adjacent cell as the value - more robust to layout than fixed
-    column positions.
+    Rewritten 2026-08-24 (see module docstring for root cause). Only scans
+    literal <tr> elements with exactly two direct <td> children - this
+    site's real label/value rows - not any <div>/<li> "row" whose
+    flattened text can spuriously contain a field's search keyword.
+    Current price comes from the dedicated `#price` span's data-value
+    attribute, since it lives outside the label/value table entirely.
     """
     soup = BeautifulSoup(html, "html.parser")
 
-    labels = {
-        "pe": ["p/e ratio", "p/e", "price earnings"],
-        "pb": ["p/b ratio", "p/b", "price to book", "price/book"],
-        "psr": ["price to sales", "p/s ratio", "p/s"],
-        "roe": ["roe", "return on equity"],
-        "eps": ["eps", "earnings per share"],
-        "dps": ["dps", "dividend per share"],
-        "dy": ["dividend yield", "div yield", "yield"],
-        "week52_high": ["52 week high", "52w high", "52-week high"],
-        "week52_low": ["52 week low", "52w low", "52-week low"],
-        "target_price": ["target price", "fair value", "consensus target"],
-    }
-
     text_pairs = []
-    for row in soup.find_all(["tr", "div", "li"]):
-        cells = row.find_all(["td", "th", "span", "div"], recursive=False)
-        if len(cells) >= 2:
+    for tr in soup.find_all("tr"):
+        cells = tr.find_all(["td", "th"], recursive=False)
+        if len(cells) == 2:
             label = cells[0].get_text(strip=True)
             value = cells[1].get_text(strip=True)
-            if label and value:
+            # Guard against any non-conforming row: real labels on this
+            # site are short (P/E, ROE, 52w, Market Cap, ...); anything
+            # long is not a genuine label/value pair.
+            if label and value and len(label) <= 40:
                 text_pairs.append((label.lower(), value))
 
     def find_value(keys):
         for label, value in text_pairs:
-            if any(k in label for k in keys):
+            if any(label == k or k in label for k in keys):
                 return value
         return None
 
-    price_val = find_value(["price", "last price"])
+    price_span = soup.find(id="price")
+    price_val = None
+    if price_span is not None:
+        price_val = price_span.get("data-value") or price_span.get_text(strip=True)
+
     result = {
         "code": code,
         "name": name,
         "price": _clean_num(price_val),
     }
-    for field, keys in labels.items():
+
+    for field, keys in _FIELD_KEYS.items():
+        if field == "week52":
+            continue
         result[field] = _clean_num(find_value(keys))
+
+    week52_raw = find_value(_FIELD_KEYS["week52"])
+    week52_high, week52_low = None, None
+    if week52_raw:
+        # Real format is "3.560 - 9.650" (low - high, ascending)
+        parts = re.split(r"\s*-\s*", week52_raw.strip())
+        if len(parts) == 2:
+            a, b = _clean_num(parts[0]), _clean_num(parts[1])
+            if a is not None and b is not None:
+                week52_low, week52_high = min(a, b), max(a, b)
+    result["week52_high"] = week52_high
+    result["week52_low"] = week52_low
 
     source = None
     full_text = soup.get_text(" ", strip=True).lower()
@@ -290,7 +342,8 @@ def main():
     table2_ok = all(len(table2.get(s, [])) >= 1 for s in STOCK_CODES)
     # A row with a code/name but no price/pe means the per-stock parser
     # matched nothing on that page - don't call that a success even though
-    # a "row" technically exists (caught a real bug on the first live run).
+    # a "row" technically exists (caught a real bug on the first live run,
+    # and again 2026-08-24 - see module docstring).
     table2_fields_ok = all(
         r.get("price") is not None or r.get("pe") is not None
         for rows in table2.values() for r in rows
