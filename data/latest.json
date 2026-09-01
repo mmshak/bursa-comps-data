@@ -1,28 +1,61 @@
 {
-  "generated_at": "2026-08-31T00:09:44.529693+00:00",
+  "generated_at": "2026-09-01T00:57:20.459346+00:00",
   "table1": {
     "AI/Technology": [
       {
-        "code": "5292",
-        "ticker": "UWC",
-        "name": "UWC",
-        "price": 6.9,
-        "pe": 104.76,
-        "div_yield": null,
-        "market_cap": 7600000000.0,
-        "week52_high": 6.98,
-        "week52_low": 2.77
+        "code": "0097",
+        "ticker": "VITROX",
+        "name": "VITROX",
+        "price": 9.23,
+        "pe": 80.55,
+        "div_yield": 0.2,
+        "market_cap": 17400000000.0,
+        "week52_high": 9.65,
+        "week52_low": 3.56
       },
       {
-        "code": "0166",
-        "ticker": "INARI",
-        "name": "INARI",
-        "price": 2.56,
-        "pe": 77.26,
-        "div_yield": 1.84,
-        "market_cap": 9800000000.0,
-        "week52_high": 2.67,
-        "week52_low": 1.21
+        "code": "7160",
+        "ticker": "PENTA",
+        "name": "PENTA",
+        "price": 5.24,
+        "pe": 50.27,
+        "div_yield": null,
+        "market_cap": 3700000000.0,
+        "week52_high": 5.84,
+        "week52_low": 2.8
+      },
+      {
+        "code": "5005",
+        "ticker": "UNISEM",
+        "name": "UNISEM",
+        "price": 4.45,
+        "pe": 112.1,
+        "div_yield": 1.57,
+        "market_cap": 7600000000.0,
+        "week52_high": 5.38,
+        "week52_low": 2.53
+      },
+      {
+        "code": "9334",
+        "ticker": "KESM",
+        "name": "KESM",
+        "price": 4.14,
+        "pe": 25.94,
+        "div_yield": 1.45,
+        "market_cap": 178000000.0,
+        "week52_high": 5.05,
+        "week52_low": 2.5
+      },
+      {
+        "code": "5357",
+        "ticker": "SKYECHIP",
+        "name": "SKYECHIP",
+        "price": 3.1,
+        "pe": 61.34,
+        "div_yield": null,
+        "market_cap": 5500000000.0,
+        "week52_high": 3.8,
+        "week52_low": 2.01
       },
       {
         "code": "0208",
@@ -36,70 +69,26 @@
         "week52_low": 1.45
       },
       {
-        "code": "0249",
-        "ticker": "LGMS",
-        "name": "LGMS",
-        "price": 0.495,
-        "pe": 22.13,
-        "div_yield": 1.01,
-        "market_cap": 225700000.0,
-        "week52_high": 0.95,
-        "week52_low": 0.42
+        "code": "5309",
+        "ticker": "ITMAX",
+        "name": "ITMAX",
+        "price": 4.35,
+        "pe": 42.84,
+        "div_yield": 0.53,
+        "market_cap": 4500000000.0,
+        "week52_high": 5.22,
+        "week52_low": 4.23
       },
       {
-        "code": "0253",
-        "ticker": "INFOTEC",
-        "name": "INFOTEC",
-        "price": 0.29,
-        "pe": 27.78,
-        "div_yield": null,
-        "market_cap": 105300000.0,
-        "week52_high": 0.515,
-        "week52_low": 0.27
-      },
-      {
-        "code": "4359",
-        "ticker": "TURIYA",
-        "name": "TURIYA",
-        "price": 0.225,
-        "pe": 13.03,
-        "div_yield": null,
-        "market_cap": 51400000.0,
-        "week52_high": 0.3,
-        "week52_low": 0.17
-      },
-      {
-        "code": "7181",
-        "ticker": "ARBB",
-        "name": "ARBB",
-        "price": 0.03,
-        "pe": -3.38,
-        "div_yield": null,
-        "market_cap": 37400000.0,
-        "week52_high": 0.04,
-        "week52_low": 0.02
-      },
-      {
-        "code": "9008",
-        "ticker": "OMESTI",
-        "name": "OMESTI",
-        "price": 0.09,
-        "pe": -2.65,
-        "div_yield": null,
-        "market_cap": 209000000.0,
-        "week52_high": 0.117,
-        "week52_low": 0.055
-      },
-      {
-        "code": "0200",
-        "ticker": "REVENUE",
-        "name": "REVENUE",
-        "price": 0.08,
-        "pe": -2.38,
-        "div_yield": null,
-        "market_cap": 48400000.0,
-        "week52_high": 0.085,
-        "week52_low": 0.045
+        "code": "0166",
+        "ticker": "INARI",
+        "name": "INARI",
+        "price": 2.56,
+        "pe": 77.26,
+        "div_yield": 1.84,
+        "market_cap": 9800000000.0,
+        "week52_high": 2.67,
+        "week52_low": 1.21
       },
       {
         "code": "5036",
@@ -111,6 +100,83 @@
         "market_cap": 70800000.0,
         "week52_high": 1.42,
         "week52_low": 1.03
+      },
+      {
+        "code": "0083",
+        "ticker": "NOTION",
+        "name": "NOTION",
+        "price": 0.525,
+        "pe": -24.98,
+        "div_yield": null,
+        "market_cap": 276100000.0,
+        "week52_high": 0.78,
+        "week52_low": 0.35
+      },
+      {
+        "code": "0259",
+        "ticker": "SNS",
+        "name": "SNS",
+        "price": 0.52,
+        "pe": 23.06,
+        "div_yield": 1.92,
+        "market_cap": 886100000.0,
+        "week52_high": 0.775,
+        "week52_low": 0.385
+      },
+      {
+        "code": "5204",
+        "ticker": "AWANTEC",
+        "name": "AWANTEC",
+        "price": 0.265,
+        "pe": 8.87,
+        "div_yield": null,
+        "market_cap": 209300000.0,
+        "week52_high": 0.375,
+        "week52_low": 0.225
+      },
+      {
+        "code": "0138",
+        "ticker": "ZETRIX",
+        "name": "ZETRIX",
+        "price": 0.295,
+        "pe": 2.28,
+        "div_yield": 10.64,
+        "market_cap": 2300000000.0,
+        "week52_high": 0.91,
+        "week52_low": 0.295
+      },
+      {
+        "code": "5161",
+        "ticker": "JCY",
+        "name": "JCY",
+        "price": 0.51,
+        "pe": -14.2,
+        "div_yield": null,
+        "market_cap": 1100000000.0,
+        "week52_high": 0.58,
+        "week52_low": 0.285
+      },
+      {
+        "code": "0090",
+        "ticker": "ELSOFT",
+        "name": "ELSOFT",
+        "price": 0.26,
+        "pe": 40.41,
+        "div_yield": 1.92,
+        "market_cap": 180400000.0,
+        "week52_high": 0.39,
+        "week52_low": 0.17
+      },
+      {
+        "code": "5216",
+        "ticker": "NEXG",
+        "name": "NEXG",
+        "price": 0.26,
+        "pe": -6.35,
+        "div_yield": 0.04,
+        "market_cap": 965100000.0,
+        "week52_high": 0.53,
+        "week52_low": 0.215
       },
       {
         "code": "7022",
@@ -135,6 +201,17 @@
         "week52_low": 0.25
       },
       {
+        "code": "0253",
+        "ticker": "INFOTEC",
+        "name": "INFOTEC",
+        "price": 0.29,
+        "pe": 27.78,
+        "div_yield": null,
+        "market_cap": 105300000.0,
+        "week52_high": 0.515,
+        "week52_low": 0.27
+      },
+      {
         "code": "5195",
         "ticker": "CENSOF",
         "name": "CENSOF",
@@ -144,6 +221,28 @@
         "market_cap": 115900000.0,
         "week52_high": 0.255,
         "week52_low": 0.16
+      },
+      {
+        "code": "4359",
+        "ticker": "TURIYA",
+        "name": "TURIYA",
+        "price": 0.225,
+        "pe": 13.03,
+        "div_yield": null,
+        "market_cap": 51400000.0,
+        "week52_high": 0.3,
+        "week52_low": 0.17
+      },
+      {
+        "code": "0277",
+        "ticker": "CLOUDPT",
+        "name": "CLOUDPT",
+        "price": 0.475,
+        "pe": 14.33,
+        "div_yield": 4.21,
+        "market_cap": 252500000.0,
+        "week52_high": 0.91,
+        "week52_low": 0.415
       },
       {
         "code": "9377",
@@ -157,6 +256,61 @@
         "week52_low": 0.14
       },
       {
+        "code": "8338",
+        "ticker": "DATAPRP",
+        "name": "DATAPRP",
+        "price": 0.065,
+        "pe": -2.03,
+        "div_yield": null,
+        "market_cap": 55800000.0,
+        "week52_high": 0.12,
+        "week52_low": 0.05
+      },
+      {
+        "code": "0051",
+        "ticker": "CUSCAPI",
+        "name": "CUSCAPI",
+        "price": 0.065,
+        "pe": 15.11,
+        "div_yield": null,
+        "market_cap": 61400000.0,
+        "week52_high": 0.16,
+        "week52_low": 0.065
+      },
+      {
+        "code": "0200",
+        "ticker": "REVENUE",
+        "name": "REVENUE",
+        "price": 0.08,
+        "pe": -2.38,
+        "div_yield": null,
+        "market_cap": 48400000.0,
+        "week52_high": 0.085,
+        "week52_low": 0.045
+      },
+      {
+        "code": "0143",
+        "ticker": "KEYASIC",
+        "name": "KEYASIC",
+        "price": 0.06,
+        "pe": -17.61,
+        "div_yield": null,
+        "market_cap": 84700000.0,
+        "week52_high": 0.095,
+        "week52_low": 0.02
+      },
+      {
+        "code": "0104",
+        "ticker": "GENETEC",
+        "name": "GENETEC",
+        "price": 0.345,
+        "pe": -1.88,
+        "div_yield": null,
+        "market_cap": 273000000.0,
+        "week52_high": 0.635,
+        "week52_low": 0.145
+      },
+      {
         "code": "0029",
         "ticker": "DIGISTA",
         "name": "DIGISTA",
@@ -166,6 +320,17 @@
         "market_cap": 27900000.0,
         "week52_high": 0.065,
         "week52_low": 0.03
+      },
+      {
+        "code": "7181",
+        "ticker": "ARBB",
+        "name": "ARBB",
+        "price": 0.03,
+        "pe": -3.38,
+        "div_yield": null,
+        "market_cap": 37400000.0,
+        "week52_high": 0.04,
+        "week52_low": 0.02
       },
       {
         "code": "0041",
@@ -201,6 +366,17 @@
         "week52_low": 0.04
       },
       {
+        "code": "9075",
+        "ticker": "THETA",
+        "name": "THETA",
+        "price": 0.685,
+        "pe": -8.19,
+        "div_yield": null,
+        "market_cap": 80800000.0,
+        "week52_high": 0.87,
+        "week52_low": 0.5
+      },
+      {
         "code": "0040",
         "ticker": "OPENSYS",
         "name": "OPENSYS",
@@ -210,6 +386,72 @@
         "market_cap": 138500000.0,
         "week52_high": 0.335,
         "week52_low": 0.295
+      },
+      {
+        "code": "9008",
+        "ticker": "OMESTI",
+        "name": "OMESTI",
+        "price": 0.09,
+        "pe": -2.65,
+        "div_yield": null,
+        "market_cap": 209000000.0,
+        "week52_high": 0.117,
+        "week52_low": 0.055
+      },
+      {
+        "code": "0065",
+        "ticker": "EFORCE",
+        "name": "EFORCE",
+        "price": 0.09,
+        "pe": 10.39,
+        "div_yield": 5.56,
+        "market_cap": 54800000.0,
+        "week52_high": 0.25,
+        "week52_low": 0.09
+      },
+      {
+        "code": "0249",
+        "ticker": "LGMS",
+        "name": "LGMS",
+        "price": 0.495,
+        "pe": 22.13,
+        "div_yield": 1.01,
+        "market_cap": 225700000.0,
+        "week52_high": 0.95,
+        "week52_low": 0.42
+      },
+      {
+        "code": "7204",
+        "ticker": "D&O",
+        "name": "D&O",
+        "price": 0.395,
+        "pe": -1.56,
+        "div_yield": null,
+        "market_cap": 489500000.0,
+        "week52_high": 1.6,
+        "week52_low": 0.31
+      },
+      {
+        "code": "0146",
+        "ticker": "JFTECH",
+        "name": "JFTECH",
+        "price": 0.675,
+        "pe": 54.43,
+        "div_yield": 0.74,
+        "market_cap": 654700000.0,
+        "week52_high": 0.76,
+        "week52_low": 0.385
+      },
+      {
+        "code": "0258",
+        "ticker": "AGMO",
+        "name": "AGMO",
+        "price": 0.3,
+        "pe": 15.0,
+        "div_yield": null,
+        "market_cap": 97500000.0,
+        "week52_high": 0.46,
+        "week52_low": 0.29
       },
       {
         "code": "0113",
@@ -223,39 +465,6 @@
         "week52_low": 0.255
       },
       {
-        "code": "5011",
-        "ticker": "MSNIAGA",
-        "name": "MSNIAGA",
-        "price": 1.19,
-        "pe": 5.52,
-        "div_yield": 4.2,
-        "market_cap": 71800000.0,
-        "week52_high": 1.39,
-        "week52_low": 1.05
-      },
-      {
-        "code": "0143",
-        "ticker": "KEYASIC",
-        "name": "KEYASIC",
-        "price": 0.06,
-        "pe": -17.61,
-        "div_yield": null,
-        "market_cap": 84700000.0,
-        "week52_high": 0.095,
-        "week52_low": 0.02
-      },
-      {
-        "code": "8338",
-        "ticker": "DATAPRP",
-        "name": "DATAPRP",
-        "price": 0.065,
-        "pe": -2.03,
-        "div_yield": null,
-        "market_cap": 55800000.0,
-        "week52_high": 0.12,
-        "week52_low": 0.05
-      },
-      {
         "code": "0127",
         "ticker": "JHM",
         "name": "JHM",
@@ -265,50 +474,6 @@
         "market_cap": 293900000.0,
         "week52_high": 0.525,
         "week52_low": 0.275
-      },
-      {
-        "code": "0128",
-        "ticker": "FRONTKN",
-        "name": "FRONTKN",
-        "price": 5.09,
-        "pe": 51.6,
-        "div_yield": 0.39,
-        "market_cap": 9200000000.0,
-        "week52_high": 5.4,
-        "week52_low": 3.61
-      },
-      {
-        "code": "5204",
-        "ticker": "AWANTEC",
-        "name": "AWANTEC",
-        "price": 0.265,
-        "pe": 8.87,
-        "div_yield": null,
-        "market_cap": 209300000.0,
-        "week52_high": 0.375,
-        "week52_low": 0.225
-      },
-      {
-        "code": "5216",
-        "ticker": "NEXG",
-        "name": "NEXG",
-        "price": 0.26,
-        "pe": -6.35,
-        "div_yield": 0.04,
-        "market_cap": 965100000.0,
-        "week52_high": 0.53,
-        "week52_low": 0.215
-      },
-      {
-        "code": "5301",
-        "ticker": "CTOS",
-        "name": "CTOS",
-        "price": 0.66,
-        "pe": 13.34,
-        "div_yield": 4.09,
-        "market_cap": 1400000000.0,
-        "week52_high": 1.02,
-        "week52_low": 0.57
       },
       {
         "code": "4456",
@@ -333,28 +498,6 @@
         "week52_low": 0.545
       },
       {
-        "code": "0104",
-        "ticker": "GENETEC",
-        "name": "GENETEC",
-        "price": 0.345,
-        "pe": -1.88,
-        "div_yield": null,
-        "market_cap": 273000000.0,
-        "week52_high": 0.635,
-        "week52_low": 0.145
-      },
-      {
-        "code": "5161",
-        "ticker": "JCY",
-        "name": "JCY",
-        "price": 0.51,
-        "pe": -14.19,
-        "div_yield": null,
-        "market_cap": 1100000000.0,
-        "week52_high": 0.58,
-        "week52_low": 0.285
-      },
-      {
         "code": "0246",
         "ticker": "CNERGEN",
         "name": "CNERGEN",
@@ -366,191 +509,15 @@
         "week52_low": 0.3
       },
       {
-        "code": "0090",
-        "ticker": "ELSOFT",
-        "name": "ELSOFT",
-        "price": 0.26,
-        "pe": 40.41,
-        "div_yield": 1.92,
-        "market_cap": 180400000.0,
-        "week52_high": 0.39,
-        "week52_low": 0.17
-      },
-      {
-        "code": "0277",
-        "ticker": "CLOUDPT",
-        "name": "CLOUDPT",
-        "price": 0.475,
-        "pe": 14.33,
-        "div_yield": 4.21,
-        "market_cap": 252500000.0,
-        "week52_high": 0.91,
-        "week52_low": 0.415
-      },
-      {
-        "code": "9075",
-        "ticker": "THETA",
-        "name": "THETA",
-        "price": 0.685,
-        "pe": -8.19,
-        "div_yield": null,
-        "market_cap": 80800000.0,
-        "week52_high": 0.87,
-        "week52_low": 0.5
-      },
-      {
-        "code": "0051",
-        "ticker": "CUSCAPI",
-        "name": "CUSCAPI",
-        "price": 0.065,
-        "pe": 15.11,
-        "div_yield": null,
-        "market_cap": 61400000.0,
-        "week52_high": 0.16,
-        "week52_low": 0.065
-      },
-      {
-        "code": "0259",
-        "ticker": "SNS",
-        "name": "SNS",
-        "price": 0.52,
-        "pe": 23.06,
-        "div_yield": 1.92,
-        "market_cap": 886100000.0,
-        "week52_high": 0.775,
-        "week52_low": 0.385
-      },
-      {
-        "code": "7204",
-        "ticker": "D&O",
-        "name": "D&O",
-        "price": 0.395,
-        "pe": -1.56,
-        "div_yield": null,
-        "market_cap": 489500000.0,
-        "week52_high": 1.6,
-        "week52_low": 0.31
-      },
-      {
-        "code": "5356",
-        "ticker": "STRATUS",
-        "name": "STRATUS",
-        "price": 2.94,
-        "pe": 96.22,
-        "div_yield": null,
-        "market_cap": 3600000000.0,
-        "week52_high": 3.09,
-        "week52_low": 1.9
-      },
-      {
-        "code": "0083",
-        "ticker": "NOTION",
-        "name": "NOTION",
-        "price": 0.525,
-        "pe": -24.98,
-        "div_yield": null,
-        "market_cap": 276100000.0,
-        "week52_high": 0.78,
-        "week52_low": 0.35
-      },
-      {
-        "code": "0258",
-        "ticker": "AGMO",
-        "name": "AGMO",
-        "price": 0.3,
-        "pe": 15.0,
-        "div_yield": null,
-        "market_cap": 97500000.0,
-        "week52_high": 0.46,
-        "week52_low": 0.29
-      },
-      {
-        "code": "5162",
-        "ticker": "VSTECS",
-        "name": "VSTECS",
-        "price": 1.7,
-        "pe": 16.18,
-        "div_yield": 6.35,
-        "market_cap": 1800000000.0,
-        "week52_high": 2.183,
-        "week52_low": 1.2
-      },
-      {
-        "code": "0146",
-        "ticker": "JFTECH",
-        "name": "JFTECH",
-        "price": 0.675,
-        "pe": 54.43,
-        "div_yield": 0.74,
-        "market_cap": 654700000.0,
-        "week52_high": 0.76,
-        "week52_low": 0.385
-      },
-      {
-        "code": "5309",
-        "ticker": "ITMAX",
-        "name": "ITMAX",
-        "price": 4.35,
-        "pe": 42.84,
-        "div_yield": 0.53,
-        "market_cap": 4500000000.0,
-        "week52_high": 5.22,
-        "week52_low": 4.23
-      },
-      {
-        "code": "5005",
-        "ticker": "UNISEM",
-        "name": "UNISEM",
-        "price": 4.45,
-        "pe": 112.1,
-        "div_yield": 1.57,
-        "market_cap": 7600000000.0,
-        "week52_high": 5.38,
-        "week52_low": 2.53
-      },
-      {
-        "code": "5357",
-        "ticker": "SKYECHIP",
-        "name": "SKYECHIP",
-        "price": 3.1,
-        "pe": 61.34,
-        "div_yield": null,
-        "market_cap": 5500000000.0,
-        "week52_high": 3.8,
-        "week52_low": 2.01
-      },
-      {
-        "code": "0065",
-        "ticker": "EFORCE",
-        "name": "EFORCE",
-        "price": 0.09,
-        "pe": 10.39,
-        "div_yield": 5.56,
-        "market_cap": 54800000.0,
-        "week52_high": 0.25,
-        "week52_low": 0.09
-      },
-      {
-        "code": "9334",
-        "ticker": "KESM",
-        "name": "KESM",
-        "price": 4.14,
-        "pe": 25.94,
-        "div_yield": 1.45,
-        "market_cap": 178000000.0,
-        "week52_high": 5.05,
-        "week52_low": 2.5
-      },
-      {
-        "code": "7160",
-        "ticker": "PENTA",
-        "name": "PENTA",
-        "price": 5.24,
-        "pe": 50.27,
-        "div_yield": null,
-        "market_cap": 3700000000.0,
-        "week52_high": 5.84,
-        "week52_low": 2.8
+        "code": "5301",
+        "ticker": "CTOS",
+        "name": "CTOS",
+        "price": 0.66,
+        "pe": 13.34,
+        "div_yield": 4.09,
+        "market_cap": 1400000000.0,
+        "week52_high": 1.02,
+        "week52_low": 0.57
       },
       {
         "code": "5028",
@@ -564,35 +531,68 @@
         "week52_low": 0.875
       },
       {
-        "code": "0097",
-        "ticker": "VITROX",
-        "name": "VITROX",
-        "price": 9.23,
-        "pe": 80.55,
-        "div_yield": 0.2,
-        "market_cap": 17400000000.0,
-        "week52_high": 9.65,
-        "week52_low": 3.56
+        "code": "5162",
+        "ticker": "VSTECS",
+        "name": "VSTECS",
+        "price": 1.7,
+        "pe": 16.18,
+        "div_yield": 6.35,
+        "market_cap": 1800000000.0,
+        "week52_high": 2.183,
+        "week52_low": 1.2
       },
       {
-        "code": "0138",
-        "ticker": "ZETRIX",
-        "name": "ZETRIX",
-        "price": 0.295,
-        "pe": 2.28,
-        "div_yield": 10.64,
-        "market_cap": 2300000000.0,
-        "week52_high": 0.91,
-        "week52_low": 0.295
+        "code": "5356",
+        "ticker": "STRATUS",
+        "name": "STRATUS",
+        "price": 2.94,
+        "pe": 96.22,
+        "div_yield": null,
+        "market_cap": 3600000000.0,
+        "week52_high": 3.09,
+        "week52_low": 1.9
+      },
+      {
+        "code": "5011",
+        "ticker": "MSNIAGA",
+        "name": "MSNIAGA",
+        "price": 1.19,
+        "pe": 5.52,
+        "div_yield": 4.2,
+        "market_cap": 71800000.0,
+        "week52_high": 1.39,
+        "week52_low": 1.05
+      },
+      {
+        "code": "5292",
+        "ticker": "UWC",
+        "name": "UWC",
+        "price": 6.9,
+        "pe": 104.76,
+        "div_yield": null,
+        "market_cap": 7600000000.0,
+        "week52_high": 6.98,
+        "week52_low": 2.77
+      },
+      {
+        "code": "0128",
+        "ticker": "FRONTKN",
+        "name": "FRONTKN",
+        "price": 5.09,
+        "pe": 51.6,
+        "div_yield": 0.39,
+        "market_cap": 9200000000.0,
+        "week52_high": 5.4,
+        "week52_low": 3.61
       },
       {
         "code": "5286",
         "ticker": "MI",
         "name": "MI",
-        "price": 6.13,
-        "pe": 37.58,
-        "div_yield": 0.49,
-        "market_cap": 5500000000.0,
+        "price": 6.03,
+        "pe": 36.96,
+        "div_yield": 0.5,
+        "market_cap": 5400000000.0,
         "week52_high": 6.57,
         "week52_low": 2.25
       },
@@ -610,268 +610,26 @@
     ],
     "Financial Services": [
       {
-        "code": "1066",
-        "ticker": "RHBBANK",
-        "name": "RHBBANK",
-        "price": 8.68,
-        "pe": 10.91,
-        "div_yield": 5.76,
-        "market_cap": 37800000000.0,
-        "week52_high": 8.94,
-        "week52_low": 6.43
-      },
-      {
-        "code": "1155",
-        "ticker": "MAYBANK",
-        "name": "MAYBANK",
-        "price": 10.68,
-        "pe": 12.34,
-        "div_yield": 5.9,
-        "market_cap": 129100000000.0,
-        "week52_high": 12.42,
-        "week52_low": 9.68
-      },
-      {
-        "code": "6459",
-        "ticker": "MNRB",
-        "name": "MNRB",
-        "price": 3.03,
-        "pe": 4.23,
-        "div_yield": 1.65,
-        "market_cap": 2300000000.0,
-        "week52_high": 3.1,
-        "week52_low": 1.85
-      },
-      {
-        "code": "5274",
-        "ticker": "HLCAP",
-        "name": "HLCAP",
-        "price": 3.24,
-        "pe": 12.2,
-        "div_yield": 5.86,
-        "market_cap": 799900000.0,
-        "week52_high": 4.0,
-        "week52_low": 3.07
-      },
-      {
-        "code": "5230",
-        "ticker": "TUNEPRO",
-        "name": "TUNEPRO",
-        "price": 0.27,
-        "pe": 9.76,
-        "div_yield": 4.81,
-        "market_cap": 203400000.0,
-        "week52_high": 0.36,
-        "week52_low": 0.26
-      },
-      {
-        "code": "0242",
-        "ticker": "PPJACK",
-        "name": "PPJACK",
-        "price": 0.895,
-        "pe": 21.25,
-        "div_yield": 1.96,
-        "market_cap": 687500000.0,
-        "week52_high": 0.98,
-        "week52_low": 0.885
-      },
-      {
-        "code": "5325",
-        "ticker": "WELLCHIP",
-        "name": "WELLCHIP",
-        "price": 1.18,
-        "pe": 7.1,
-        "div_yield": 4.32,
-        "market_cap": 708000000.0,
-        "week52_high": 1.78,
-        "week52_low": 1.01
-      },
-      {
-        "code": "9296",
-        "ticker": "RCECAP",
-        "name": "RCECAP",
-        "price": 1.04,
-        "pe": 11.78,
-        "div_yield": 6.25,
-        "market_cap": 1500000000.0,
-        "week52_high": 1.25,
-        "week52_low": 1.03
-      },
-      {
-        "code": "2143",
-        "ticker": "ECM",
-        "name": "ECM",
-        "price": 0.225,
-        "pe": 3.93,
-        "div_yield": null,
-        "market_cap": 111400000.0,
-        "week52_high": 0.23,
-        "week52_low": 0.18
-      },
-      {
-        "code": "3441",
-        "ticker": "JOHAN",
-        "name": "JOHAN",
-        "price": 0.025,
-        "pe": -1.46,
-        "div_yield": null,
-        "market_cap": 29200000.0,
-        "week52_high": 0.04,
-        "week52_low": 0.02
-      },
-      {
-        "code": "5088",
-        "ticker": "APEX",
-        "name": "APEX",
-        "price": 0.61,
-        "pe": 25.14,
-        "div_yield": null,
-        "market_cap": 136700000.0,
-        "week52_high": 0.91,
-        "week52_low": 0.605
-      },
-      {
-        "code": "6483",
-        "ticker": "KENANGA",
-        "name": "KENANGA",
-        "price": 0.67,
-        "pe": 11.6,
-        "div_yield": 7.46,
-        "market_cap": 492900000.0,
-        "week52_high": 0.89,
-        "week52_low": 0.665
-      },
-      {
-        "code": "3379",
-        "ticker": "INSAS",
-        "name": "INSAS",
-        "price": 0.915,
-        "pe": 3.56,
-        "div_yield": 3.28,
-        "market_cap": 662200000.0,
-        "week52_high": 0.97,
-        "week52_low": 0.82
-      },
-      {
-        "code": "6009",
-        "ticker": "P&O",
-        "name": "P&O",
-        "price": 0.535,
-        "pe": -5.71,
-        "div_yield": null,
-        "market_cap": 158500000.0,
-        "week52_high": 0.605,
-        "week52_low": 0.515
-      },
-      {
-        "code": "1198",
-        "ticker": "MAA",
-        "name": "MAA",
-        "price": 0.13,
-        "pe": -0.34,
-        "div_yield": null,
-        "market_cap": 34200000.0,
-        "week52_high": 0.21,
-        "week52_low": 0.125
-      },
-      {
-        "code": "1171",
-        "ticker": "MBSB",
-        "name": "MBSB",
-        "price": 0.605,
-        "pe": 28.65,
-        "div_yield": 5.32,
-        "market_cap": 4900000000.0,
-        "week52_high": 0.785,
-        "week52_low": 0.6
-      },
-      {
-        "code": "1058",
-        "ticker": "MANULFE",
-        "name": "MANULFE",
-        "price": 2.34,
-        "pe": 4.89,
-        "div_yield": 3.85,
-        "market_cap": 560000000.0,
-        "week52_high": 2.4,
-        "week52_low": 2.06
-      },
-      {
-        "code": "5228",
-        "ticker": "ELKDESA",
-        "name": "ELKDESA",
-        "price": 1.0,
-        "pe": 15.58,
-        "div_yield": 4.5,
-        "market_cap": 454800000.0,
-        "week52_high": 1.13,
-        "week52_low": 1.0
-      },
-      {
-        "code": "7082",
-        "ticker": "M&A",
-        "name": "M&A",
-        "price": 0.17,
-        "pe": 16.69,
-        "div_yield": null,
-        "market_cap": 340900000.0,
-        "week52_high": 0.305,
-        "week52_low": 0.16
-      },
-      {
-        "code": "5185",
-        "ticker": "AFFIN",
-        "name": "AFFIN",
-        "price": 2.05,
-        "pe": 10.07,
-        "div_yield": 4.16,
+        "code": "8621",
+        "ticker": "LPI",
+        "name": "LPI",
+        "price": 13.48,
+        "pe": 15.21,
+        "div_yield": 6.68,
         "market_cap": 5300000000.0,
-        "week52_high": 2.82,
-        "week52_low": 2.04
+        "week52_high": 15.78,
+        "week52_low": 13.4
       },
       {
-        "code": "2488",
-        "ticker": "ABMB",
-        "name": "ABMB",
-        "price": 4.92,
-        "pe": 9.72,
-        "div_yield": 3.88,
-        "market_cap": 8500000000.0,
-        "week52_high": 5.59,
-        "week52_low": 4.27
-      },
-      {
-        "code": "6139",
-        "ticker": "TAKAFUL",
-        "name": "TAKAFUL",
-        "price": 3.17,
-        "pe": 6.98,
-        "div_yield": 5.84,
-        "market_cap": 2700000000.0,
-        "week52_high": 3.58,
-        "week52_low": 3.02
-      },
-      {
-        "code": "5258",
-        "ticker": "BIMB",
-        "name": "BIMB",
-        "price": 2.1,
-        "pe": 8.52,
-        "div_yield": 6.88,
-        "market_cap": 4700000000.0,
-        "week52_high": 2.55,
-        "week52_low": 2.07
-      },
-      {
-        "code": "1818",
-        "ticker": "BURSA",
-        "name": "BURSA",
-        "price": 8.63,
-        "pe": 25.94,
-        "div_yield": 3.24,
-        "market_cap": 6900000000.0,
-        "week52_high": 9.18,
-        "week52_low": 7.78
+        "code": "1163",
+        "ticker": "ALLIANZ",
+        "name": "ALLIANZ",
+        "price": 21.9,
+        "pe": 4.13,
+        "div_yield": 1.62,
+        "market_cap": 4000000000.0,
+        "week52_high": 23.3,
+        "week52_low": 17.8
       },
       {
         "code": "1295",
@@ -896,26 +654,103 @@
         "week52_low": 4.85
       },
       {
-        "code": "1015",
-        "ticker": "AMBANK",
-        "name": "AMBANK",
-        "price": 6.9,
-        "pe": 10.86,
-        "div_yield": 5.07,
-        "market_cap": 22800000000.0,
-        "week52_high": 7.37,
-        "week52_low": 5.39
+        "code": "5258",
+        "ticker": "BIMB",
+        "name": "BIMB",
+        "price": 2.1,
+        "pe": 8.52,
+        "div_yield": 6.88,
+        "market_cap": 4700000000.0,
+        "week52_high": 2.55,
+        "week52_low": 2.07
       },
       {
-        "code": "1023",
-        "ticker": "CIMB",
-        "name": "CIMB",
-        "price": 7.96,
-        "pe": 10.96,
-        "div_yield": 5.92,
-        "market_cap": 86000000000.0,
-        "week52_high": 8.95,
-        "week52_low": 7.07
+        "code": "1058",
+        "ticker": "MANULFE",
+        "name": "MANULFE",
+        "price": 2.34,
+        "pe": 4.89,
+        "div_yield": 3.85,
+        "market_cap": 560000000.0,
+        "week52_high": 2.4,
+        "week52_low": 2.06
+      },
+      {
+        "code": "5325",
+        "ticker": "WELLCHIP",
+        "name": "WELLCHIP",
+        "price": 1.18,
+        "pe": 7.1,
+        "div_yield": 4.32,
+        "market_cap": 708000000.0,
+        "week52_high": 1.78,
+        "week52_low": 1.01
+      },
+      {
+        "code": "5185",
+        "ticker": "AFFIN",
+        "name": "AFFIN",
+        "price": 2.05,
+        "pe": 10.07,
+        "div_yield": 4.16,
+        "market_cap": 5300000000.0,
+        "week52_high": 2.82,
+        "week52_low": 2.04
+      },
+      {
+        "code": "9296",
+        "ticker": "RCECAP",
+        "name": "RCECAP",
+        "price": 1.04,
+        "pe": 11.78,
+        "div_yield": 6.25,
+        "market_cap": 1500000000.0,
+        "week52_high": 1.25,
+        "week52_low": 1.03
+      },
+      {
+        "code": "6459",
+        "ticker": "MNRB",
+        "name": "MNRB",
+        "price": 3.03,
+        "pe": 4.23,
+        "div_yield": 1.65,
+        "market_cap": 2300000000.0,
+        "week52_high": 3.1,
+        "week52_low": 1.85
+      },
+      {
+        "code": "0242",
+        "ticker": "PPJACK",
+        "name": "PPJACK",
+        "price": 0.895,
+        "pe": 21.25,
+        "div_yield": 1.96,
+        "market_cap": 687500000.0,
+        "week52_high": 0.98,
+        "week52_low": 0.885
+      },
+      {
+        "code": "2143",
+        "ticker": "ECM",
+        "name": "ECM",
+        "price": 0.225,
+        "pe": 3.93,
+        "div_yield": null,
+        "market_cap": 111400000.0,
+        "week52_high": 0.23,
+        "week52_low": 0.18
+      },
+      {
+        "code": "1198",
+        "ticker": "MAA",
+        "name": "MAA",
+        "price": 0.13,
+        "pe": -0.34,
+        "div_yield": null,
+        "market_cap": 34200000.0,
+        "week52_high": 0.21,
+        "week52_low": 0.125
       },
       {
         "code": "1082",
@@ -929,26 +764,15 @@
         "week52_low": 16.78
       },
       {
-        "code": "1163",
-        "ticker": "ALLIANZ",
-        "name": "ALLIANZ",
-        "price": 21.9,
-        "pe": 4.13,
-        "div_yield": 1.62,
-        "market_cap": 4000000000.0,
-        "week52_high": 23.3,
-        "week52_low": 17.8
-      },
-      {
-        "code": "1163",
-        "ticker": "ALLIANZ-PA",
-        "name": "ALLIANZ-PA",
-        "price": 21.92,
-        "pe": null,
-        "div_yield": null,
-        "market_cap": 3500000000.0,
-        "week52_high": 23.3,
-        "week52_low": 17.8
+        "code": "5228",
+        "ticker": "ELKDESA",
+        "name": "ELKDESA",
+        "price": 1.0,
+        "pe": 15.58,
+        "div_yield": 4.5,
+        "market_cap": 454800000.0,
+        "week52_high": 1.13,
+        "week52_low": 1.0
       },
       {
         "code": "5819",
@@ -962,28 +786,204 @@
         "week52_low": 19.88
       },
       {
-        "code": "8621",
-        "ticker": "LPI",
-        "name": "LPI",
-        "price": 13.48,
-        "pe": 15.21,
-        "div_yield": 6.68,
-        "market_cap": 5300000000.0,
-        "week52_high": 15.78,
-        "week52_low": 13.4
+        "code": "3441",
+        "ticker": "JOHAN",
+        "name": "JOHAN",
+        "price": 0.025,
+        "pe": -1.46,
+        "div_yield": null,
+        "market_cap": 29200000.0,
+        "week52_high": 0.04,
+        "week52_low": 0.02
+      },
+      {
+        "code": "7082",
+        "ticker": "M&A",
+        "name": "M&A",
+        "price": 0.17,
+        "pe": 16.69,
+        "div_yield": null,
+        "market_cap": 340900000.0,
+        "week52_high": 0.305,
+        "week52_low": 0.16
+      },
+      {
+        "code": "5274",
+        "ticker": "HLCAP",
+        "name": "HLCAP",
+        "price": 3.24,
+        "pe": 12.2,
+        "div_yield": 5.86,
+        "market_cap": 799900000.0,
+        "week52_high": 4.0,
+        "week52_low": 3.07
+      },
+      {
+        "code": "5230",
+        "ticker": "TUNEPRO",
+        "name": "TUNEPRO",
+        "price": 0.27,
+        "pe": 9.76,
+        "div_yield": 4.81,
+        "market_cap": 203400000.0,
+        "week52_high": 0.36,
+        "week52_low": 0.26
+      },
+      {
+        "code": "5088",
+        "ticker": "APEX",
+        "name": "APEX",
+        "price": 0.61,
+        "pe": 25.14,
+        "div_yield": null,
+        "market_cap": 136700000.0,
+        "week52_high": 0.91,
+        "week52_low": 0.605
+      },
+      {
+        "code": "6483",
+        "ticker": "KENANGA",
+        "name": "KENANGA",
+        "price": 0.67,
+        "pe": 11.6,
+        "div_yield": 7.46,
+        "market_cap": 492900000.0,
+        "week52_high": 0.89,
+        "week52_low": 0.665
+      },
+      {
+        "code": "1171",
+        "ticker": "MBSB",
+        "name": "MBSB",
+        "price": 0.605,
+        "pe": 28.65,
+        "div_yield": 5.32,
+        "market_cap": 4900000000.0,
+        "week52_high": 0.785,
+        "week52_low": 0.6
+      },
+      {
+        "code": "3379",
+        "ticker": "INSAS",
+        "name": "INSAS",
+        "price": 0.915,
+        "pe": 3.56,
+        "div_yield": 3.28,
+        "market_cap": 662200000.0,
+        "week52_high": 0.97,
+        "week52_low": 0.82
+      },
+      {
+        "code": "6009",
+        "ticker": "P&O",
+        "name": "P&O",
+        "price": 0.535,
+        "pe": -5.71,
+        "div_yield": null,
+        "market_cap": 158500000.0,
+        "week52_high": 0.605,
+        "week52_low": 0.515
+      },
+      {
+        "code": "1023",
+        "ticker": "CIMB",
+        "name": "CIMB",
+        "price": 7.96,
+        "pe": 10.96,
+        "div_yield": 5.92,
+        "market_cap": 86000000000.0,
+        "week52_high": 8.95,
+        "week52_low": 7.07
+      },
+      {
+        "code": "1163",
+        "ticker": "ALLIANZ-PA",
+        "name": "ALLIANZ-PA",
+        "price": 21.92,
+        "pe": null,
+        "div_yield": null,
+        "market_cap": 3500000000.0,
+        "week52_high": 23.3,
+        "week52_low": 17.8
+      },
+      {
+        "code": "2488",
+        "ticker": "ABMB",
+        "name": "ABMB",
+        "price": 4.92,
+        "pe": 9.72,
+        "div_yield": 3.88,
+        "market_cap": 8500000000.0,
+        "week52_high": 5.59,
+        "week52_low": 4.27
+      },
+      {
+        "code": "6139",
+        "ticker": "TAKAFUL",
+        "name": "TAKAFUL",
+        "price": 3.17,
+        "pe": 6.98,
+        "div_yield": 5.84,
+        "market_cap": 2700000000.0,
+        "week52_high": 3.58,
+        "week52_low": 3.02
+      },
+      {
+        "code": "1015",
+        "ticker": "AMBANK",
+        "name": "AMBANK",
+        "price": 6.9,
+        "pe": 10.86,
+        "div_yield": 5.07,
+        "market_cap": 22800000000.0,
+        "week52_high": 7.37,
+        "week52_low": 5.39
+      },
+      {
+        "code": "1818",
+        "ticker": "BURSA",
+        "name": "BURSA",
+        "price": 8.63,
+        "pe": 25.94,
+        "div_yield": 3.24,
+        "market_cap": 6900000000.0,
+        "week52_high": 9.18,
+        "week52_low": 7.78
+      },
+      {
+        "code": "1155",
+        "ticker": "MAYBANK",
+        "name": "MAYBANK",
+        "price": 10.68,
+        "pe": 12.34,
+        "div_yield": 5.9,
+        "market_cap": 129100000000.0,
+        "week52_high": 12.42,
+        "week52_low": 9.68
+      },
+      {
+        "code": "1066",
+        "ticker": "RHBBANK",
+        "name": "RHBBANK",
+        "price": 8.68,
+        "pe": 10.91,
+        "div_yield": 5.76,
+        "market_cap": 37800000000.0,
+        "week52_high": 8.94,
+        "week52_low": 6.43
       }
     ],
     "Healthcare": [
       {
-        "code": "5225",
-        "ticker": "IHH",
-        "name": "IHH",
-        "price": 8.25,
-        "pe": 32.47,
-        "div_yield": 1.27,
-        "market_cap": 72800000000.0,
-        "week52_high": 10.48,
-        "week52_low": 6.75
+        "code": "5555",
+        "ticker": "SUNMED",
+        "name": "SUNMED",
+        "price": 2.12,
+        "pe": 81.7,
+        "div_yield": null,
+        "market_cap": 24300000000.0,
+        "week52_high": 2.46,
+        "week52_low": 1.69
       },
       {
         "code": "0002",
@@ -997,15 +997,26 @@
         "week52_low": 3.58
       },
       {
-        "code": "0201",
-        "ticker": "NOVA",
-        "name": "NOVA",
-        "price": 0.38,
-        "pe": 12.18,
-        "div_yield": 8.42,
-        "market_cap": 121100000.0,
-        "week52_high": 0.445,
-        "week52_low": 0.32
+        "code": "7081",
+        "ticker": "PHARMA",
+        "name": "PHARMA",
+        "price": 1.16,
+        "pe": 25.81,
+        "div_yield": 0.63,
+        "market_cap": 1500000000.0,
+        "week52_high": 1.7,
+        "week52_low": 0.85
+      },
+      {
+        "code": "7148",
+        "ticker": "DPHARMA",
+        "name": "DPHARMA",
+        "price": 1.28,
+        "pe": 12.05,
+        "div_yield": 3.55,
+        "market_cap": 1200000000.0,
+        "week52_high": 1.57,
+        "week52_low": 1.18
       },
       {
         "code": "0222",
@@ -1019,6 +1030,39 @@
         "week52_low": 0.505
       },
       {
+        "code": "0001",
+        "ticker": "SCOMNET",
+        "name": "SCOMNET",
+        "price": 0.515,
+        "pe": 17.56,
+        "div_yield": 4.08,
+        "market_cap": 443200000.0,
+        "week52_high": 0.86,
+        "week52_low": 0.395
+      },
+      {
+        "code": "7106",
+        "ticker": "SUPERMX",
+        "name": "SUPERMX",
+        "price": 0.325,
+        "pe": -6.9,
+        "div_yield": null,
+        "market_cap": 1000000000.0,
+        "week52_high": 0.53,
+        "week52_low": 0.25
+      },
+      {
+        "code": "7178",
+        "ticker": "YSPSAH",
+        "name": "YSPSAH",
+        "price": 2.01,
+        "pe": 10.55,
+        "div_yield": 5.47,
+        "market_cap": 285100000.0,
+        "week52_high": 2.2,
+        "week52_low": 2.01
+      },
+      {
         "code": "0101",
         "ticker": "TMCLIFE",
         "name": "TMCLIFE",
@@ -1028,6 +1072,28 @@
         "market_cap": 775100000.0,
         "week52_high": 0.575,
         "week52_low": 0.41
+      },
+      {
+        "code": "0201",
+        "ticker": "NOVA",
+        "name": "NOVA",
+        "price": 0.38,
+        "pe": 12.18,
+        "div_yield": 8.42,
+        "market_cap": 121100000.0,
+        "week52_high": 0.445,
+        "week52_low": 0.32
+      },
+      {
+        "code": "7191",
+        "ticker": "ADVENTA",
+        "name": "ADVENTA",
+        "price": 0.13,
+        "pe": -5.19,
+        "div_yield": null,
+        "market_cap": 39700000.0,
+        "week52_high": 0.235,
+        "week52_low": 0.115
       },
       {
         "code": "0163",
@@ -1041,39 +1107,6 @@
         "week52_low": 0.06
       },
       {
-        "code": "7153",
-        "ticker": "KOSSAN",
-        "name": "KOSSAN",
-        "price": 1.1,
-        "pe": 14.93,
-        "div_yield": 3.64,
-        "market_cap": 2800000000.0,
-        "week52_high": 1.35,
-        "week52_low": 0.935
-      },
-      {
-        "code": "5878",
-        "ticker": "KPJ",
-        "name": "KPJ",
-        "price": 2.7,
-        "pe": 30.53,
-        "div_yield": 1.57,
-        "market_cap": 12200000000.0,
-        "week52_high": 3.53,
-        "week52_low": 2.34
-      },
-      {
-        "code": "0001",
-        "ticker": "SCOMNET",
-        "name": "SCOMNET",
-        "price": 0.515,
-        "pe": 17.56,
-        "div_yield": 4.08,
-        "market_cap": 443200000.0,
-        "week52_high": 0.86,
-        "week52_low": 0.395
-      },
-      {
         "code": "7803",
         "ticker": "HEXCARE",
         "name": "HEXCARE",
@@ -1083,6 +1116,17 @@
         "market_cap": 71600000.0,
         "week52_high": 0.12,
         "week52_low": 0.05
+      },
+      {
+        "code": "5225",
+        "ticker": "IHH",
+        "name": "IHH",
+        "price": 8.25,
+        "pe": 32.47,
+        "div_yield": 1.27,
+        "market_cap": 72800000000.0,
+        "week52_high": 10.48,
+        "week52_low": 6.75
       },
       {
         "code": "0256",
@@ -1107,70 +1151,15 @@
         "week52_low": 0.65
       },
       {
-        "code": "7081",
-        "ticker": "PHARMA",
-        "name": "PHARMA",
-        "price": 1.16,
-        "pe": 25.81,
-        "div_yield": 0.63,
-        "market_cap": 1500000000.0,
-        "week52_high": 1.7,
-        "week52_low": 0.85
-      },
-      {
-        "code": "7178",
-        "ticker": "YSPSAH",
-        "name": "YSPSAH",
-        "price": 2.01,
-        "pe": 10.55,
-        "div_yield": 5.47,
-        "market_cap": 285100000.0,
-        "week52_high": 2.2,
-        "week52_low": 2.01
-      },
-      {
-        "code": "7191",
-        "ticker": "ADVENTA",
-        "name": "ADVENTA",
-        "price": 0.13,
-        "pe": -5.19,
-        "div_yield": null,
-        "market_cap": 39700000.0,
-        "week52_high": 0.235,
-        "week52_low": 0.115
-      },
-      {
-        "code": "7148",
-        "ticker": "DPHARMA",
-        "name": "DPHARMA",
-        "price": 1.28,
-        "pe": 12.05,
-        "div_yield": 3.55,
-        "market_cap": 1200000000.0,
-        "week52_high": 1.57,
-        "week52_low": 1.18
-      },
-      {
-        "code": "7106",
-        "ticker": "SUPERMX",
-        "name": "SUPERMX",
-        "price": 0.325,
-        "pe": -6.9,
-        "div_yield": null,
-        "market_cap": 1000000000.0,
-        "week52_high": 0.53,
-        "week52_low": 0.25
-      },
-      {
-        "code": "7113",
-        "ticker": "TOPGLOV",
-        "name": "TOPGLOV",
-        "price": 0.66,
-        "pe": 28.71,
-        "div_yield": 0.73,
-        "market_cap": 5400000000.0,
-        "week52_high": 0.88,
-        "week52_low": 0.53
+        "code": "7153",
+        "ticker": "KOSSAN",
+        "name": "KOSSAN",
+        "price": 1.1,
+        "pe": 14.93,
+        "div_yield": 3.64,
+        "market_cap": 2800000000.0,
+        "week52_high": 1.35,
+        "week52_low": 0.935
       },
       {
         "code": "5168",
@@ -1184,15 +1173,26 @@
         "week52_low": 0.8
       },
       {
-        "code": "5555",
-        "ticker": "SUNMED",
-        "name": "SUNMED",
-        "price": 2.12,
-        "pe": 81.7,
-        "div_yield": null,
-        "market_cap": 24300000000.0,
-        "week52_high": 2.46,
-        "week52_low": 1.69
+        "code": "7113",
+        "ticker": "TOPGLOV",
+        "name": "TOPGLOV",
+        "price": 0.66,
+        "pe": 28.71,
+        "div_yield": 0.73,
+        "market_cap": 5400000000.0,
+        "week52_high": 0.88,
+        "week52_low": 0.53
+      },
+      {
+        "code": "5878",
+        "ticker": "KPJ",
+        "name": "KPJ",
+        "price": 2.7,
+        "pe": 30.53,
+        "div_yield": 1.57,
+        "market_cap": 12200000000.0,
+        "week52_high": 3.53,
+        "week52_low": 2.34
       }
     ]
   },
@@ -1327,7 +1327,7 @@
         "eps": 5.05,
         "dps": null,
         "dy": 0.0,
-        "market_cap": 5567600000.0,
+        "market_cap": 5567700000.0,
         "target_price": null,
         "week52_high": 3.8,
         "week52_low": 2.01,
@@ -1528,7 +1528,7 @@
       {
         "code": "5555",
         "price": 2.12,
-        "pe": 81.7,
+        "pe": 81.71,
         "pb": 7.31,
         "psr": 13.01,
         "roe": 8.93,
