@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:29:49.316529+00:00",
+  "generated_at": "2026-09-06T23:25:45.456078+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -62,9 +62,9 @@
         "ticker": "CNERGEN",
         "name": "CNERGEN",
         "price": 0.9,
-        "pe": 46.67,
+        "pe": 46.8,
         "div_yield": null,
-        "market_cap": 448500000.0,
+        "market_cap": 449700000.0,
         "week52_high": 0.94,
         "week52_low": 0.3
       },
@@ -139,8 +139,8 @@
         "ticker": "LGMS",
         "name": "LGMS",
         "price": 0.48,
-        "pe": 21.46,
-        "div_yield": 1.04,
+        "pe": 21.24,
+        "div_yield": 1.05,
         "market_cap": 218800000.0,
         "week52_high": 0.95,
         "week52_low": 0.42
@@ -208,8 +208,8 @@
         "pe": 15.42,
         "div_yield": 6.67,
         "market_cap": 1700000000.0,
-        "week52_high": 2.183,
-        "week52_low": 1.22
+        "week52_high": 0.0,
+        "week52_low": 0.0
       },
       {
         "code": "7022",
