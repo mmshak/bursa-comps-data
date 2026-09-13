@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:40:06.927699+00:00",
+  "generated_at": "2026-09-13T23:51:17.270522+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -447,7 +447,7 @@
         "ticker": "INARI",
         "name": "INARI",
         "price": 2.66,
-        "pe": 80.39,
+        "pe": 80.47,
         "div_yield": 1.77,
         "market_cap": 10200000000.0,
         "week52_high": 2.74,
@@ -827,7 +827,7 @@
         "div_yield": 6.05,
         "market_cap": 2600000000.0,
         "week52_high": 3.58,
-        "week52_low": 3.02
+        "week52_low": 3.04
       },
       {
         "code": "5088",
@@ -871,7 +871,7 @@
         "div_yield": 5.71,
         "market_cap": 2700000000.0,
         "week52_high": 6.13,
-        "week52_low": 5.05
+        "week52_low": 5.07
       },
       {
         "code": "1155",
@@ -882,7 +882,7 @@
         "div_yield": 6.07,
         "market_cap": 125500000000.0,
         "week52_high": 12.42,
-        "week52_low": 9.75
+        "week52_low": 9.79
       },
       {
         "code": "2488",
@@ -926,7 +926,7 @@
         "div_yield": 3.33,
         "market_cap": 6800000000.0,
         "week52_high": 9.18,
-        "week52_low": 7.86
+        "week52_low": 7.87
       },
       {
         "code": "1015",
@@ -944,11 +944,11 @@
         "ticker": "RHBBANK",
         "name": "RHBBANK",
         "price": 7.9,
-        "pe": 9.93,
-        "div_yield": 6.33,
+        "pe": 9.74,
+        "div_yield": 6.45,
         "market_cap": 34400000000.0,
         "week52_high": 8.94,
-        "week52_low": 6.43
+        "week52_low": 6.47
       },
       {
         "code": "5819",
@@ -1192,7 +1192,7 @@
         "div_yield": 1.37,
         "market_cap": 67500000000.0,
         "week52_high": 10.48,
-        "week52_low": 7.15
+        "week52_low": 7.22
       }
     ]
   },
@@ -1252,14 +1252,14 @@
       {
         "code": "0166",
         "price": 2.66,
-        "pe": 80.39,
+        "pe": 80.47,
         "pb": 3.66,
-        "psr": 8.63,
+        "psr": 8.64,
         "roe": 4.56,
         "eps": 3.31,
         "dps": 4.7,
         "dy": 1.77,
-        "market_cap": 10200000000.0,
+        "market_cap": 10300000000.0,
         "target_price": null,
         "week52_high": 2.74,
         "week52_low": 1.21,
@@ -1383,7 +1383,7 @@
         "market_cap": 125600000000.0,
         "target_price": null,
         "week52_high": 12.42,
-        "week52_low": 9.75,
+        "week52_low": 9.79,
         "target_price_source": null,
         "name": "Malayan Banking"
       },
@@ -1451,7 +1451,7 @@
         "market_cap": 34500000000.0,
         "target_price": null,
         "week52_high": 8.94,
-        "week52_low": 6.43,
+        "week52_low": 6.47,
         "target_price_source": null,
         "name": "RHB Bank"
       },
@@ -1521,7 +1521,7 @@
         "market_cap": 67599999999.99999,
         "target_price": null,
         "week52_high": 10.48,
-        "week52_low": 7.15,
+        "week52_low": 7.22,
         "target_price_source": null,
         "name": "IHH Healthcare"
       },
