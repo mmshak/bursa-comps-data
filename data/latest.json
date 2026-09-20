@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:50:44.655409+00:00",
+  "generated_at": "2026-09-20T23:48:17.667387+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -66,7 +66,7 @@
         "div_yield": null,
         "market_cap": 7100000000.0,
         "week52_high": 6.98,
-        "week52_low": 3.36
+        "week52_low": 3.51
       },
       {
         "code": "0166",
@@ -362,7 +362,7 @@
         "pe": 22.35,
         "div_yield": 1.0,
         "market_cap": 228000000.0,
-        "week52_high": 0.95,
+        "week52_high": 0.885,
         "week52_low": 0.42
       },
       {
@@ -601,7 +601,7 @@
         "ticker": "ZETRIX",
         "name": "ZETRIX",
         "price": 0.2,
-        "pe": 1.54,
+        "pe": 1.55,
         "div_yield": 15.7,
         "market_cap": 1600000000.0,
         "week52_high": 0.91,
@@ -629,7 +629,7 @@
         "div_yield": 6.36,
         "market_cap": 34299999999.999996,
         "week52_high": 8.94,
-        "week52_low": 6.47
+        "week52_low": 6.5
       },
       {
         "code": "2488",
@@ -771,7 +771,7 @@
         "pe": 19.63,
         "div_yield": null,
         "market_cap": 401100000.0,
-        "week52_high": 0.305,
+        "week52_high": 0.3,
         "week52_low": 0.16
       },
       {
@@ -804,7 +804,7 @@
         "pe": 8.5,
         "div_yield": 5.53,
         "market_cap": 177100000.0,
-        "week52_high": 0.355,
+        "week52_high": 0.35,
         "week52_low": 0.23
       },
       {
@@ -979,9 +979,9 @@
         "ticker": "SUNMED",
         "name": "SUNMED",
         "price": 2.26,
-        "pe": 87.1,
+        "pe": 87.11,
         "div_yield": null,
-        "market_cap": 25900000000.0,
+        "market_cap": 26000000000.0,
         "week52_high": 2.46,
         "week52_low": 1.69
       },
@@ -1181,7 +1181,7 @@
         "div_yield": 1.37,
         "market_cap": 67500000000.0,
         "week52_high": 10.48,
-        "week52_low": 7.31
+        "week52_low": 7.32
       },
       {
         "code": "0002",
@@ -1296,7 +1296,7 @@
         "market_cap": 7119600000.0,
         "target_price": null,
         "week52_high": 6.98,
-        "week52_low": 3.36,
+        "week52_low": 3.51,
         "target_price_source": null,
         "name": "UWC Bhd"
       },
@@ -1451,7 +1451,7 @@
         "market_cap": 34299999999.999996,
         "target_price": null,
         "week52_high": 8.94,
-        "week52_low": 6.47,
+        "week52_low": 6.5,
         "target_price_source": null,
         "name": "RHB Bank"
       },
@@ -1521,14 +1521,14 @@
         "market_cap": 67500000000.0,
         "target_price": null,
         "week52_high": 10.48,
-        "week52_low": 7.31,
+        "week52_low": 7.32,
         "target_price_source": null,
         "name": "IHH Healthcare"
       },
       {
         "code": "5555",
         "price": 2.26,
-        "pe": 87.1,
+        "pe": 87.11,
         "pb": 7.79,
         "psr": 13.87,
         "roe": 8.93,
