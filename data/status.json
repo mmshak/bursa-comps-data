@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-10-12T00:55:16.176419+00:00",
+  "generated_at": "2026-10-13T02:48:41.049937+00:00",
   "ok": true,
-  "errors": [],
+  "errors": [
+    "Stock detail / 90081: Failed to fetch https://www.klsescreener.com/v2/stocks/view/90081 after 3 attempts: 404 Client Error: Not Found for url: https://www.klsescreener.com/v2/stocks/view/90081",
+    "Stock detail / 70811: Failed to fetch https://www.klsescreener.com/v2/stocks/view/70811 after 3 attempts: 404 Client Error: Not Found for url: https://www.klsescreener.com/v2/stocks/view/70811",
+    "Stock detail / 01261: Failed to fetch https://www.klsescreener.com/v2/stocks/view/01261 after 3 attempts: 404 Client Error: Not Found for url: https://www.klsescreener.com/v2/stocks/view/01261",
+    "Stock detail / 24881: Failed to fetch https://www.klsescreener.com/v2/stocks/view/24881 after 3 attempts: 404 Client Error: Not Found for url: https://www.klsescreener.com/v2/stocks/view/24881"
+  ],
   "table1_counts": {
-    "AI/Technology": 55,
-    "Financial Services": 33,
-    "Healthcare": 20
+    "AI/Technology": 58,
+    "Financial Services": 37,
+    "Healthcare": 22
   },
   "table2_counts": {
     "AI/Technology": 8,
@@ -13,8 +18,8 @@
     "Healthcare": 8
   },
   "table1_week52_coverage": {
-    "AI/Technology": 55,
-    "Financial Services": 33,
-    "Healthcare": 20
+    "AI/Technology": 56,
+    "Financial Services": 36,
+    "Healthcare": 21
   }
 }
