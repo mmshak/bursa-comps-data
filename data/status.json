@@ -1,53 +1,20 @@
 {
-  "generated_at": "2026-10-15T00:15:56.198225+00:00",
-  "ok": false,
-  "errors": [
-    "Table 1 / AI/Technology: Failed to fetch https://www.klsescreener.com/v2/markets/bursa/0005I after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/markets/bursa/0005I",
-    "Table 1 / Financial Services: Failed to fetch https://www.klsescreener.com/v2/markets/bursa/0010I after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/markets/bursa/0010I",
-    "Table 1 / Healthcare: Failed to fetch https://www.klsescreener.com/v2/markets/bursa/0062I after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/markets/bursa/0062I",
-    "Stock detail / 1015: Failed to fetch https://www.klsescreener.com/v2/stocks/view/1015 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/1015",
-    "Stock detail / 5168: Failed to fetch https://www.klsescreener.com/v2/stocks/view/5168 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/5168",
-    "Stock detail / 1023: Failed to fetch https://www.klsescreener.com/v2/stocks/view/1023 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/1023",
-    "Stock detail / 0128: Failed to fetch https://www.klsescreener.com/v2/stocks/view/0128 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/0128",
-    "Stock detail / 7153: Failed to fetch https://www.klsescreener.com/v2/stocks/view/7153 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/7153",
-    "Stock detail / 1082: Failed to fetch https://www.klsescreener.com/v2/stocks/view/1082 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/1082",
-    "Stock detail / 5357: Failed to fetch https://www.klsescreener.com/v2/stocks/view/5357 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/5357",
-    "Stock detail / 1295: Failed to fetch https://www.klsescreener.com/v2/stocks/view/1295 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/1295",
-    "Stock detail / 5819: Failed to fetch https://www.klsescreener.com/v2/stocks/view/5819 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/5819",
-    "Stock detail / 5258: Failed to fetch https://www.klsescreener.com/v2/stocks/view/5258 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/5258",
-    "Stock detail / 3867: Failed to fetch https://www.klsescreener.com/v2/stocks/view/3867 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/3867",
-    "Stock detail / 7113: Failed to fetch https://www.klsescreener.com/v2/stocks/view/7113 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/7113",
-    "Stock detail / 1155: Failed to fetch https://www.klsescreener.com/v2/stocks/view/1155 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/1155",
-    "Stock detail / 0097: Failed to fetch https://www.klsescreener.com/v2/stocks/view/0097 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/0097",
-    "Stock detail / 1066: Failed to fetch https://www.klsescreener.com/v2/stocks/view/1066 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/1066",
-    "Stock detail / 7081: Failed to fetch https://www.klsescreener.com/v2/stocks/view/7081 after 3 attempts: HTTPSConnectionPool(host='www.klsescreener.com', port=443): Read timed out. (read timeout=20)",
-    "Stock detail / 7148: Failed to fetch https://www.klsescreener.com/v2/stocks/view/7148 after 3 attempts: 522 Server Error: <none> for url: https://www.klsescreener.com/v2/stocks/view/7148",
-    "Table 2 / AI/Technology / 0097 ViTrox Corp: no stock detail available",
-    "Table 2 / AI/Technology / 3867 Malaysian Pacific Industries: no stock detail available",
-    "Table 2 / AI/Technology / 0128 Frontken Corp: no stock detail available",
-    "Table 2 / AI/Technology / 5357 SkyeChip Bhd: no stock detail available",
-    "Table 2 / Financial Services / 5819 Hong Leong Bank: no stock detail available",
-    "Table 2 / Financial Services / 1295 Public Bank: no stock detail available",
-    "Table 2 / Financial Services / 1155 Malayan Banking: no stock detail available",
-    "Table 2 / Financial Services / 5258 BIMB Holdings: no stock detail available",
-    "Table 2 / Financial Services / 1023 CIMB Group: no stock detail available",
-    "Table 2 / Financial Services / 1066 RHB Bank: no stock detail available",
-    "Table 2 / Financial Services / 1082 Hong Leong Financial Grp: no stock detail available",
-    "Table 2 / Financial Services / 1015 AMMB Holdings: no stock detail available",
-    "Table 2 / Healthcare / 7113 Top Glove Corp: no stock detail available",
-    "Table 2 / Healthcare / 5168 Hartalega Holdings: no stock detail available",
-    "Table 2 / Healthcare / 7153 Kossan Rubber Industries: no stock detail available",
-    "Table 2 / Healthcare / 7081 Pharmaniaga: no stock detail available",
-    "Table 2 / Healthcare / 7148 Duopharma Biotech: no stock detail available"
-  ],
+  "generated_at": "2026-10-16T00:01:23.881463+00:00",
+  "ok": true,
+  "errors": [],
   "table1_counts": {
-    "AI/Technology": 0,
-    "Financial Services": 0,
-    "Healthcare": 0
+    "AI/Technology": 31,
+    "Financial Services": 20,
+    "Healthcare": 11
   },
   "table2_counts": {
-    "AI/Technology": 4,
-    "Financial Services": 2,
-    "Healthcare": 3
+    "AI/Technology": 8,
+    "Financial Services": 10,
+    "Healthcare": 8
+  },
+  "table1_week52_coverage": {
+    "AI/Technology": 31,
+    "Financial Services": 20,
+    "Healthcare": 11
   }
 }
