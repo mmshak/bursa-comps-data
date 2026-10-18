@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:43:00.211584+00:00",
+  "generated_at": "2026-10-18T23:52:03.665888+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -109,7 +109,7 @@
         "pe": 21.13,
         "div_yield": null,
         "market_cap": 152300000.0,
-        "week52_high": 2.21,
+        "week52_high": 2.16,
         "week52_low": 0.84
       },
       {
@@ -186,7 +186,7 @@
         "pe": -1.67,
         "div_yield": null,
         "market_cap": 241300000.0,
-        "week52_high": 0.56,
+        "week52_high": 0.55,
         "week52_low": 0.145
       },
       {
@@ -208,7 +208,7 @@
         "pe": 14.93,
         "div_yield": 4.04,
         "market_cap": 263100000.00000003,
-        "week52_high": 0.85,
+        "week52_high": 0.84,
         "week52_low": 0.415
       },
       {
@@ -241,7 +241,7 @@
         "pe": -2.08,
         "div_yield": null,
         "market_cap": 650700000.0,
-        "week52_high": 1.38,
+        "week52_high": 1.33,
         "week52_low": 0.31
       },
       {
@@ -252,7 +252,7 @@
         "pe": 8.51,
         "div_yield": 6.35,
         "market_cap": 939700000.0,
-        "week52_high": 0.955,
+        "week52_high": 0.95,
         "week52_low": 0.41
       },
       {
@@ -483,7 +483,7 @@
         "pe": -6.96,
         "div_yield": 0.04,
         "market_cap": 1000000000.0,
-        "week52_high": 0.455,
+        "week52_high": 0.43,
         "week52_low": 0.215
       },
       {
@@ -494,7 +494,7 @@
         "pe": -2.84,
         "div_yield": null,
         "market_cap": 160200000.0,
-        "week52_high": 0.375,
+        "week52_high": 0.365,
         "week52_low": 0.15
       },
       {
@@ -582,7 +582,7 @@
         "pe": -1.56,
         "div_yield": null,
         "market_cap": 42900000.0,
-        "week52_high": 0.12,
+        "week52_high": 0.115,
         "week52_low": 0.045
       },
       {
@@ -695,7 +695,7 @@
         "div_yield": 7.43,
         "market_cap": 2100000000.0,
         "week52_high": 3.1,
-        "week52_low": 1.85
+        "week52_low": 1.86
       },
       {
         "code": "6139",
@@ -797,17 +797,6 @@
         "week52_low": 0.225
       },
       {
-        "code": "3379",
-        "ticker": "INSAS",
-        "name": "INSAS",
-        "price": 0.875,
-        "pe": 3.41,
-        "div_yield": 3.43,
-        "market_cap": 633300000.0,
-        "week52_high": 0.97,
-        "week52_low": 0.82
-      },
-      {
         "code": "5139",
         "ticker": "AEONCR",
         "name": "AEONCR",
@@ -817,6 +806,17 @@
         "market_cap": 2400000000.0,
         "week52_high": 6.13,
         "week52_low": 4.74
+      },
+      {
+        "code": "3379",
+        "ticker": "INSAS",
+        "name": "INSAS",
+        "price": 0.875,
+        "pe": 3.41,
+        "div_yield": 3.43,
+        "market_cap": 633300000.0,
+        "week52_high": 0.97,
+        "week52_low": 0.82
       },
       {
         "code": "5228",
@@ -870,7 +870,7 @@
         "pe": 7.65,
         "div_yield": 4.81,
         "market_cap": 763200000.0,
-        "week52_high": 1.751,
+        "week52_high": 1.731,
         "week52_low": 0.993
       },
       {
@@ -1081,7 +1081,7 @@
         "pe": -5.99,
         "div_yield": null,
         "market_cap": 45800000.0,
-        "week52_high": 0.22,
+        "week52_high": 0.21,
         "week52_low": 0.115
       },
       {
@@ -1114,7 +1114,7 @@
         "pe": 21.02,
         "div_yield": 2.83,
         "market_cap": 268900000.0,
-        "week52_high": 0.71,
+        "week52_high": 0.7,
         "week52_low": 0.495
       },
       {
@@ -1136,7 +1136,7 @@
         "pe": 16.19,
         "div_yield": 4.42,
         "market_cap": 408700000.0,
-        "week52_high": 0.86,
+        "week52_high": 0.825,
         "week52_low": 0.395
       },
       {
@@ -1166,7 +1166,7 @@
         "ticker": "SUNMED",
         "name": "SUNMED",
         "price": 2.1,
-        "pe": 80.94,
+        "pe": 80.95,
         "div_yield": null,
         "market_cap": 24100000000.0,
         "week52_high": 2.46,
@@ -1528,7 +1528,7 @@
       {
         "code": "5555",
         "price": 2.1,
-        "pe": 80.94,
+        "pe": 80.95,
         "pb": 7.24,
         "psr": 12.89,
         "roe": 8.93,
