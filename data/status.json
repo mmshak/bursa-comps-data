@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-10-21T00:20:55.249473+00:00",
+  "generated_at": "2026-10-22T00:22:44.871061+00:00",
   "ok": true,
-  "errors": [],
+  "errors": [
+    "Stock detail / 53251: Failed to fetch https://www.klsescreener.com/v2/stocks/view/53251 after 3 attempts: 404 Client Error: Not Found for url: https://www.klsescreener.com/v2/stocks/view/53251"
+  ],
   "table1_counts": {
-    "AI/Technology": 35,
-    "Financial Services": 20,
-    "Healthcare": 10
+    "AI/Technology": 39,
+    "Financial Services": 27,
+    "Healthcare": 15
   },
   "table2_counts": {
     "AI/Technology": 8,
@@ -13,8 +15,8 @@
     "Healthcare": 8
   },
   "table1_week52_coverage": {
-    "AI/Technology": 35,
-    "Financial Services": 20,
-    "Healthcare": 10
+    "AI/Technology": 39,
+    "Financial Services": 26,
+    "Healthcare": 15
   }
 }
