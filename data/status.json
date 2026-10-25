@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:57:11.445806+00:00",
+  "generated_at": "2026-10-25T23:44:37.139434+00:00",
   "ok": true,
   "errors": [
     "Stock detail / 53251: Failed to fetch https://www.klsescreener.com/v2/stocks/view/53251 after 3 attempts: 404 Client Error: Not Found for url: https://www.klsescreener.com/v2/stocks/view/53251"
