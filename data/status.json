@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T01:11:47.666545+00:00",
+  "generated_at": "2026-11-03T03:15:45.238547+00:00",
   "ok": false,
   "errors": [
     "Table 1 / Financial Services: Only parsed 4 rows from Financial Services page - header detection likely failed. Headers seen: ['Code', 'Name', 'Price', 'Change', 'Change %', 'Trend', 'Volume', 'Market Cap', 'P/E', 'DY (%)', 'ROE (%)', 'Subsector']",
-    "Table 1 / Healthcare: Only parsed 3 rows from Healthcare page - header detection likely failed. Headers seen: ['Code', 'Name', 'Price', 'Change', 'Change %', 'Trend', 'Volume', 'Market Cap', 'P/E', 'DY (%)', 'ROE (%)', 'Subsector']"
+    "Table 1 / Healthcare: Only parsed 2 rows from Healthcare page - header detection likely failed. Headers seen: ['Code', 'Name', 'Price', 'Change', 'Change %', 'Trend', 'Volume', 'Market Cap', 'P/E', 'DY (%)', 'ROE (%)', 'Subsector']"
   ],
   "table1_counts": {
-    "AI/Technology": 5,
+    "AI/Technology": 7,
     "Financial Services": 0,
     "Healthcare": 0
   },
