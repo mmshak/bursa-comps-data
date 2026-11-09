@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:01:12.425922+00:00",
+  "generated_at": "2026-11-09T01:23:10.530764+00:00",
   "table1": {
     "AI/Technology": [
       {
@@ -318,7 +318,7 @@
         "pe": 23.02,
         "div_yield": 0.97,
         "market_cap": 234800000.0,
-        "week52_high": 0.735,
+        "week52_high": 0.72,
         "week52_low": 0.42
       },
       {
@@ -750,7 +750,7 @@
         "div_yield": 6.47,
         "market_cap": 33700000000.000004,
         "week52_high": 8.94,
-        "week52_low": 6.76
+        "week52_low": 6.78
       },
       {
         "code": "9296",
@@ -926,7 +926,7 @@
         "div_yield": null,
         "market_cap": 3200000000.0,
         "week52_high": 23.3,
-        "week52_low": 17.88
+        "week52_low": 17.92
       },
       {
         "code": "1023",
@@ -948,7 +948,7 @@
         "div_yield": 5.26,
         "market_cap": 22000000000.0,
         "week52_high": 7.37,
-        "week52_low": 5.7
+        "week52_low": 5.71
       },
       {
         "code": "5819",
@@ -959,7 +959,7 @@
         "div_yield": 5.0,
         "market_cap": 47600000000.0,
         "week52_high": 25.8,
-        "week52_low": 20.68
+        "week52_low": 20.76
       },
       {
         "code": "1082",
@@ -970,7 +970,7 @@
         "div_yield": 4.48,
         "market_cap": 20200000000.0,
         "week52_high": 23.1,
-        "week52_low": 17.0
+        "week52_low": 17.02
       },
       {
         "code": "1163",
@@ -981,7 +981,7 @@
         "div_yield": 1.81,
         "market_cap": 3600000000.0,
         "week52_high": 23.3,
-        "week52_low": 17.88
+        "week52_low": 17.92
       }
     ],
     "Healthcare": [
@@ -1360,7 +1360,7 @@
         "market_cap": 47700000000.0,
         "target_price": null,
         "week52_high": 25.8,
-        "week52_low": 20.68,
+        "week52_low": 20.76,
         "target_price_source": null,
         "name": "Hong Leong Bank"
       },
@@ -1462,7 +1462,7 @@
         "market_cap": 33700000000.000004,
         "target_price": null,
         "week52_high": 8.94,
-        "week52_low": 6.76,
+        "week52_low": 6.78,
         "target_price_source": null,
         "name": "RHB Bank"
       },
@@ -1479,7 +1479,7 @@
         "market_cap": 20200000000.0,
         "target_price": null,
         "week52_high": 23.1,
-        "week52_low": 17.0,
+        "week52_low": 17.02,
         "target_price_source": null,
         "name": "Hong Leong Financial Grp"
       },
@@ -1496,7 +1496,7 @@
         "market_cap": 22000000000.0,
         "target_price": null,
         "week52_high": 7.37,
-        "week52_low": 5.7,
+        "week52_low": 5.71,
         "target_price_source": null,
         "name": "AMMB Holdings"
       },
