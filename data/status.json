@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T03:56:13.771886+00:00",
+  "generated_at": "2026-11-11T01:40:31.961533+00:00",
   "ok": true,
   "errors": [],
   "table1_counts": {
-    "AI/Technology": 56,
-    "Financial Services": 33,
-    "Healthcare": 20
+    "AI/Technology": 48,
+    "Financial Services": 20,
+    "Healthcare": 14
   },
   "table2_counts": {
     "AI/Technology": 8,
@@ -13,8 +13,8 @@
     "Healthcare": 8
   },
   "table1_week52_coverage": {
-    "AI/Technology": 56,
-    "Financial Services": 33,
-    "Healthcare": 20
+    "AI/Technology": 48,
+    "Financial Services": 20,
+    "Healthcare": 14
   }
 }
